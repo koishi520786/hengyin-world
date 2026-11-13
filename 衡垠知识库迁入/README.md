@@ -1,13 +1,13 @@
 # 衡垠知识库迁入
 
-本目录是《衡垠世界》既有蛊虫、妖兽、杀招资料的统一迁入库。**只读原始资料，不修改网站文件，不覆盖、不删除任何原文。**
+本目录是《衡垠世界》既有蛊虫、妖兽、杀招资料的统一迁入库。**只读原始资料，不修改原始档案，不覆盖、不删除任何原文。** 世界层数据另见仓库根目录 `World/`；网站已移除。
 
 ## 结构
 ```
 衡垠知识库迁入/
 ├── README.md
 ├── SOURCE_INVENTORY.md
-├── IMPORT_REPORT.md
+├── Audit/IMPORT_REPORT.md
 ├── Gu/
 │   ├── C-G/ 684 份原著蛊虫档案
 │   ├── O-G/ 33 份原创蛊虫档案（32 完整 + O-G-110 登记）
@@ -22,7 +22,7 @@
 ├── Indexes/ 统一索引（蛊虫/妖兽/杀招/关系/来源/扩展/秘境）
 ├── Audit/ 覆盖、重复、冲突、不完整、来源扫描、导入报告
 ├── Tools/ 可复跑脚本
-└── Stage2/ 第二阶段分类建议、网页 IA 对接说明
+└── Stage2/ 第二阶段分类建议
 ```
 
 ## 关键数字
@@ -35,7 +35,7 @@
 1. 读 `Audit/IMPORT_REPORT.md` 看结论与缺口。
 2. 读 `Indexes/gu-index.json`、`beast-index.json`、`move-index.json` 取结构化数据。
 3. 需要关系图时读 `relationship-index.json`；每条关系都指向已登记实体。
-4. 需要网站数据包时按 `Stage2/CLASSIFICATION_PLAN.md` 生成；网站 IA 与数据读取契约见 `Stage2/WEB_IA_HANDOFF.md`。
+4. 需要数据分区与 AI 读取建议时读 `Stage2/CLASSIFICATION_PLAN.md`；世界层数据见 `../World/`。
 5. 交付前跑 `Tools/validate.py`，核对 `Audit/VALIDATION.md`。
 
 ## 边界

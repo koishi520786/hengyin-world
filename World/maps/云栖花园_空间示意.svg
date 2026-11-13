@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="云栖花园七栋楼空间示意">
+            <rect x="0" y="0" width="360" height="260" fill="#faf8f1"/>
+            <rect x="26" y="24" width="308" height="212" fill="none" stroke="#cfc6b4" stroke-dasharray="4 3"/>
+            <text x="30" y="18" font-size="9" fill="#7b8794" letter-spacing="1">云栖路（东侧）</text>
+            <g fill="#e2dac9" stroke="#b9ae99" stroke-width=".8">
+              <rect x="48" y="42" width="56" height="30"/><rect x="126" y="42" width="56" height="30"/>
+              <rect x="204" y="42" width="56" height="30"/><rect x="282" y="42" width="30" height="30"/>
+              <rect x="48" y="100" width="56" height="30"/><rect x="126" y="100" width="56" height="30"/>
+              <rect x="204" y="100" width="56" height="30"/><rect x="282" y="100" width="30" height="30"/>
+              <rect x="48" y="158" width="56" height="30"/><rect x="126" y="158" width="56" height="30"/>
+              <rect x="204" y="158" width="56" height="30"/><rect x="282" y="158" width="30" height="30"/>
+            </g>
+            <rect x="48" y="42" width="56" height="30" fill="#9c6b43" opacity=".22" stroke="#9c6b43" stroke-width="1.4"/>
+            <text x="54" y="61" font-size="10" fill="#1b2631">3 号楼</text>
+            <text x="54" y="71" font-size="7.5" fill="#9c6b43">602 · 顶层</text>
+            <path d="M30 210 L330 210" stroke="#cfc6b4" stroke-width="1" stroke-dasharray="2 4"/>
+            <text x="30" y="232" font-size="9" fill="#7b8794">小区内部道路 · 尽头小广场</text>
+            <circle cx="330" cy="86" r="3.4" fill="#2d5c70"/>
+            <text x="300" y="78" font-size="8.5" fill="#2d5c70">门（东）</text>
+          </svg>
