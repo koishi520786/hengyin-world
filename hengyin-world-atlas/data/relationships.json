@@ -1,0 +1,2228 @@
+{
+  "schema": "hengyin/relationships/1.0",
+  "version": "2.0.0",
+  "generated_at": "2026-11-13 20:36:13 +0800",
+  "kinds": {
+    "part_of": "隶属／包含（父级）",
+    "located_in": "位于",
+    "capital_of": "首都／驻地",
+    "has_entrance": "出入口位于",
+    "entrance_of": "是…的出入口",
+    "managed_by": "由…管理",
+    "headquarters_in": "总部位于",
+    "habitat": "栖息地",
+    "occasional": "偶入记录（非现存物种）",
+    "predation": "捕食／被捕食",
+    "symbiosis": "共生／伴生",
+    "competition": "竞争",
+    "ecology_other": "其他生态关系",
+    "carries_gu": "携带蛊虫（不等于可控）",
+    "host_of": "宿主／被动寄生",
+    "traded_at": "交易场所",
+    "produced_in": "产地／制造",
+    "rule_ref": "规则依据"
+  },
+  "count": 220,
+  "edges": [
+    {
+      "id": "REL-00001",
+      "from": "ADM-105",
+      "to": "NAT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00002",
+      "from": "CITY-001",
+      "to": "NAT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00003",
+      "from": "CITY-002",
+      "to": "NAT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00004",
+      "from": "CITY-003",
+      "to": "NAT-003",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00005",
+      "from": "CITY-004",
+      "to": "NAT-004",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00006",
+      "from": "CITY-005",
+      "to": "NAT-007",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00007",
+      "from": "CITY-006",
+      "to": "NAT-006",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00008",
+      "from": "CITY-007",
+      "to": "NAT-010",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00009",
+      "from": "CITY-008",
+      "to": "NAT-008",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00010",
+      "from": "CITY-009",
+      "to": "NAT-009",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00011",
+      "from": "CITY-010",
+      "to": "NAT-011",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00012",
+      "from": "CITY-011",
+      "to": "NAT-012",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00013",
+      "from": "CITY-012",
+      "to": "NAT-013",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00014",
+      "from": "CITY-013",
+      "to": "NAT-014",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00015",
+      "from": "CITY-014",
+      "to": "NAT-015",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00016",
+      "from": "CITY-015",
+      "to": "NAT-016",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00017",
+      "from": "CITY-016",
+      "to": "NAT-017",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00018",
+      "from": "CITY-017",
+      "to": "NAT-018",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00019",
+      "from": "CITY-018",
+      "to": "NAT-019",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00020",
+      "from": "CITY-019",
+      "to": "NAT-020",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00021",
+      "from": "CITY-020",
+      "to": "NAT-021",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00022",
+      "from": "CITY-021",
+      "to": "NAT-022",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00023",
+      "from": "CITY-022",
+      "to": "NAT-023",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00024",
+      "from": "CITY-023",
+      "to": "NAT-024",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00025",
+      "from": "CITY-024",
+      "to": "NAT-025",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00026",
+      "from": "CITY-025",
+      "to": "NAT-026",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00027",
+      "from": "CITY-026",
+      "to": "NAT-027",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00028",
+      "from": "CITY-027",
+      "to": "NAT-028",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00029",
+      "from": "CITY-028",
+      "to": "NAT-029",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00030",
+      "from": "CITY-029",
+      "to": "NAT-030",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00031",
+      "from": "CITY-030",
+      "to": "NAT-031",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00032",
+      "from": "CITY-031",
+      "to": "NAT-032",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00033",
+      "from": "CITY-032",
+      "to": "NAT-033",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00034",
+      "from": "CITY-033",
+      "to": "NAT-034",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00035",
+      "from": "CITY-034",
+      "to": "NAT-035",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00036",
+      "from": "CITY-035",
+      "to": "NAT-036",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00037",
+      "from": "CITY-036",
+      "to": "NAT-037",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00038",
+      "from": "CITY-037",
+      "to": "NAT-038",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00039",
+      "from": "CITY-038",
+      "to": "NAT-039",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00040",
+      "from": "CITY-040",
+      "to": "NAT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00041",
+      "from": "CITY-041",
+      "to": "NAT-010",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00042",
+      "from": "CITY-042",
+      "to": "NAT-013",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00043",
+      "from": "CITY-043",
+      "to": "NAT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00044",
+      "from": "CITY-044",
+      "to": "NAT-022",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00045",
+      "from": "CITY-045",
+      "to": "NAT-028",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00046",
+      "from": "CITY-046",
+      "to": "NAT-033",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00047",
+      "from": "CITY-047",
+      "to": "NAT-011",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00048",
+      "from": "CITY-048",
+      "to": "NAT-035",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00049",
+      "from": "CITY-049",
+      "to": "NAT-003",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00050",
+      "from": "CITY-050",
+      "to": "NAT-007",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00051",
+      "from": "CITY-051",
+      "to": "NAT-022",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00052",
+      "from": "CITY-052",
+      "to": "NAT-006",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00053",
+      "from": "CITY-101",
+      "to": "ADM-105",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00054",
+      "from": "CITY-102",
+      "to": "NAT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00055",
+      "from": "CITY-103",
+      "to": "NAT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00056",
+      "from": "CITY-104",
+      "to": "NAT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00057",
+      "from": "CITY-105",
+      "to": "NAT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00058",
+      "from": "CITY-106",
+      "to": "NAT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00059",
+      "from": "CITY-107",
+      "to": "NAT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00060",
+      "from": "CITY-108",
+      "to": "NAT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00061",
+      "from": "CONT-001",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00062",
+      "from": "CONT-002",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00063",
+      "from": "CONT-003",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00064",
+      "from": "CONT-004",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00065",
+      "from": "CONT-005",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00066",
+      "from": "CONT-006",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00067",
+      "from": "DIST-101-01",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00068",
+      "from": "DIST-101-02",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00069",
+      "from": "DIST-101-03",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00070",
+      "from": "DIST-101-04",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00071",
+      "from": "DIST-101-05",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00072",
+      "from": "DIST-101-06",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00073",
+      "from": "DIST-101-07",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00074",
+      "from": "LOC-101-0001",
+      "to": "DIST-101-01",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00075",
+      "from": "LOC-101-0002",
+      "to": "DIST-101-01",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00076",
+      "from": "LOC-101-0004",
+      "to": "DIST-101-01",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00077",
+      "from": "LOC-101-0006",
+      "to": "DIST-101-05",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00078",
+      "from": "LOC-101-0012",
+      "to": "DIST-101-01",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00079",
+      "from": "LOC-101-0101",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00080",
+      "from": "LOC-101-0104",
+      "to": "LOC-101-0303",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00081",
+      "from": "LOC-101-0208",
+      "to": "DIST-101-02",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00082",
+      "from": "LOC-101-0301",
+      "to": "DIST-101-03",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；原 09 号 §13 地点表把 0301 也用于「云栖街道办事处」，构成 C-04 冲突；本站保留街道编号为 0301，街道办事处改挂 0360（拟定）。",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00083",
+      "from": "LOC-101-0302",
+      "to": "DIST-101-03",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00084",
+      "from": "LOC-101-0303",
+      "to": "DIST-101-03",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00085",
+      "from": "LOC-101-0304",
+      "to": "DIST-101-03",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00086",
+      "from": "LOC-101-0305",
+      "to": "DIST-101-03",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00087",
+      "from": "LOC-101-0306",
+      "to": "DIST-101-03",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00088",
+      "from": "LOC-101-0312",
+      "to": "LOC-101-0301",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00089",
+      "from": "LOC-101-0318",
+      "to": "LOC-101-0301",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00090",
+      "from": "LOC-101-0321",
+      "to": "LOC-101-0302",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00091",
+      "from": "LOC-101-0324",
+      "to": "LOC-101-0305",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00092",
+      "from": "LOC-101-0330",
+      "to": "LOC-101-0301",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00093",
+      "from": "LOC-101-0340",
+      "to": "LOC-101-0304",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00094",
+      "from": "LOC-101-0350",
+      "to": "LOC-101-0302",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00095",
+      "from": "LOC-101-0360",
+      "to": "LOC-101-0301",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "proposed",
+      "note": "由 parent_id 生成；C-04：09 号 §13 原用 LOC-101-0301，与 §4.2 街道表重复；本站按 C-04 改挂拟定编号，待用户确认。不是正式编号。",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00096",
+      "from": "LOC-101-0361",
+      "to": "LOC-101-0301",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "proposed",
+      "note": "由 parent_id 生成；C-04：09 号 §13 原用 LOC-101-0302，与 §4.2 街道表重复；本站按 C-04 改挂拟定编号，待用户确认。不是正式编号。",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00097",
+      "from": "LOC-101-0362",
+      "to": "LOC-101-0301",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "proposed",
+      "note": "由 parent_id 生成；C-04：09 号 §13 原用 LOC-101-0305，与 §4.2 街道表重复；本站按 C-04 改挂拟定编号，待用户确认。不是正式编号。",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00098",
+      "from": "LOC-101-0401",
+      "to": "DIST-101-04",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00099",
+      "from": "LOC-101-0501",
+      "to": "DIST-101-05",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00100",
+      "from": "LOC-101-0601",
+      "to": "DIST-101-06",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00101",
+      "from": "LOC-101-0604",
+      "to": "DIST-101-06",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00102",
+      "from": "LOC-101-0608",
+      "to": "DIST-101-06",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00103",
+      "from": "LOC-101-0701",
+      "to": "DIST-101-07",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00104",
+      "from": "LOC-101-0703",
+      "to": "DIST-101-07",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00105",
+      "from": "NAT-001",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00106",
+      "from": "NAT-002",
+      "to": "CONT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00107",
+      "from": "NAT-003",
+      "to": "CONT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00108",
+      "from": "NAT-004",
+      "to": "CONT-003",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00109",
+      "from": "NAT-005",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00110",
+      "from": "NAT-006",
+      "to": "CONT-006",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00111",
+      "from": "NAT-007",
+      "to": "CONT-004",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00112",
+      "from": "NAT-008",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00113",
+      "from": "NAT-009",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00114",
+      "from": "NAT-010",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00115",
+      "from": "NAT-011",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00116",
+      "from": "NAT-012",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00117",
+      "from": "NAT-013",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00118",
+      "from": "NAT-014",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00119",
+      "from": "NAT-015",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00120",
+      "from": "NAT-016",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00121",
+      "from": "NAT-017",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00122",
+      "from": "NAT-018",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00123",
+      "from": "NAT-019",
+      "to": "CONT-001",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00124",
+      "from": "NAT-020",
+      "to": "CONT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00125",
+      "from": "NAT-021",
+      "to": "CONT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00126",
+      "from": "NAT-022",
+      "to": "CONT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00127",
+      "from": "NAT-023",
+      "to": "CONT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00128",
+      "from": "NAT-024",
+      "to": "CONT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00129",
+      "from": "NAT-025",
+      "to": "CONT-002",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00130",
+      "from": "NAT-026",
+      "to": "CONT-003",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00131",
+      "from": "NAT-027",
+      "to": "CONT-003",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00132",
+      "from": "NAT-028",
+      "to": "CONT-003",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00133",
+      "from": "NAT-029",
+      "to": "CONT-003",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00134",
+      "from": "NAT-030",
+      "to": "CONT-004",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00135",
+      "from": "NAT-031",
+      "to": "CONT-004",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00136",
+      "from": "NAT-032",
+      "to": "CONT-004",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00137",
+      "from": "NAT-033",
+      "to": "CONT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00138",
+      "from": "NAT-034",
+      "to": "CONT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00139",
+      "from": "NAT-035",
+      "to": "CONT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00140",
+      "from": "NAT-036",
+      "to": "CONT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00141",
+      "from": "NAT-037",
+      "to": "CONT-005",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00142",
+      "from": "NAT-038",
+      "to": "CONT-006",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00143",
+      "from": "NAT-039",
+      "to": "CONT-006",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00144",
+      "from": "NODE-101-001",
+      "to": "LOC-101-0301",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "proposed",
+      "note": "由 parent_id 生成；NODE 前缀在原编号体系中未定义；此编号来自第一版地图 POI，属拟定占位，待分配正式 LOC 编号。",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00145",
+      "from": "OCEAN-001",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00146",
+      "from": "OCEAN-002",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00147",
+      "from": "OCEAN-003",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00148",
+      "from": "OCEAN-004",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00149",
+      "from": "OCEAN-005",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00150",
+      "from": "OCEAN-006",
+      "to": "PLANET-000",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00151",
+      "from": "ORG-016",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；仅索引与概要，无完整组织档案。",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00152",
+      "from": "ORG-017",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；仅索引与概要，无完整组织档案。",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00153",
+      "from": "REALM-012",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00154",
+      "from": "REALM-061",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00155",
+      "from": "REALM-062",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00156",
+      "from": "REALM-063",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00157",
+      "from": "REALM-064",
+      "to": "CITY-101",
+      "type": "part_of",
+      "kind": "hierarchy",
+      "status": "existing",
+      "note": "由 parent_id 生成；",
+      "source": "world-index.json / parent_id"
+    },
+    {
+      "id": "REL-00158",
+      "from": "NAT-001",
+      "to": "CITY-001",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00159",
+      "from": "NAT-002",
+      "to": "CITY-002",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00160",
+      "from": "NAT-003",
+      "to": "CITY-003",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00161",
+      "from": "NAT-004",
+      "to": "CITY-004",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00162",
+      "from": "NAT-005",
+      "to": "CITY-102",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00163",
+      "from": "NAT-006",
+      "to": "CITY-006",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00164",
+      "from": "NAT-007",
+      "to": "CITY-005",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00165",
+      "from": "NAT-008",
+      "to": "CITY-008",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00166",
+      "from": "NAT-009",
+      "to": "CITY-009",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00167",
+      "from": "NAT-010",
+      "to": "CITY-007",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00168",
+      "from": "NAT-011",
+      "to": "CITY-010",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00169",
+      "from": "NAT-012",
+      "to": "CITY-011",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00170",
+      "from": "NAT-013",
+      "to": "CITY-012",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00171",
+      "from": "NAT-014",
+      "to": "CITY-013",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00172",
+      "from": "NAT-015",
+      "to": "CITY-014",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00173",
+      "from": "NAT-016",
+      "to": "CITY-015",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00174",
+      "from": "NAT-017",
+      "to": "CITY-016",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00175",
+      "from": "NAT-018",
+      "to": "CITY-017",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00176",
+      "from": "NAT-019",
+      "to": "CITY-018",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00177",
+      "from": "NAT-020",
+      "to": "CITY-019",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00178",
+      "from": "NAT-021",
+      "to": "CITY-020",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00179",
+      "from": "NAT-022",
+      "to": "CITY-021",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00180",
+      "from": "NAT-023",
+      "to": "CITY-022",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00181",
+      "from": "NAT-024",
+      "to": "CITY-023",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00182",
+      "from": "NAT-025",
+      "to": "CITY-024",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00183",
+      "from": "NAT-026",
+      "to": "CITY-025",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00184",
+      "from": "NAT-027",
+      "to": "CITY-026",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00185",
+      "from": "NAT-028",
+      "to": "CITY-027",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00186",
+      "from": "NAT-029",
+      "to": "CITY-028",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00187",
+      "from": "NAT-030",
+      "to": "CITY-029",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00188",
+      "from": "NAT-031",
+      "to": "CITY-030",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00189",
+      "from": "NAT-032",
+      "to": "CITY-031",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00190",
+      "from": "NAT-033",
+      "to": "CITY-032",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00191",
+      "from": "NAT-034",
+      "to": "CITY-033",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00192",
+      "from": "NAT-035",
+      "to": "CITY-034",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00193",
+      "from": "NAT-036",
+      "to": "CITY-035",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00194",
+      "from": "NAT-037",
+      "to": "CITY-036",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00195",
+      "from": "NAT-038",
+      "to": "CITY-037",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00196",
+      "from": "NAT-039",
+      "to": "CITY-038",
+      "type": "capital_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "首都／驻地，据 03 号政治实体首都坐标表",
+      "source": "03_世界地图与坐标索引.md §3"
+    },
+    {
+      "id": "REL-00197",
+      "from": "REALM-012",
+      "to": "LOC-101-0012",
+      "type": "has_entrance",
+      "kind": "association",
+      "status": "existing",
+      "note": "旧渠闸为中城区江堤路 9 号入口，24 小时值守。",
+      "source": "09_临江市城市档案.md §13 / 10_全球秘境总目录.md"
+    },
+    {
+      "id": "REL-00198",
+      "from": "LOC-101-0012",
+      "to": "REALM-012",
+      "type": "entrance_of",
+      "kind": "association",
+      "status": "existing",
+      "note": "旧渠闸是临江地下层的登记入口。",
+      "source": "09_临江市城市档案.md §13"
+    },
+    {
+      "id": "REL-00199",
+      "from": "LOC-101-0340",
+      "to": "LOC-101-0304",
+      "type": "located_in",
+      "kind": "association",
+      "status": "existing",
+      "note": "蛊坊街在江堤街道，不在云栖街道；第一版部分链接误指向云栖街道，本阶段已修正。",
+      "source": "09_临江市城市档案.md §13"
+    },
+    {
+      "id": "REL-00200",
+      "from": "LOC-101-0340",
+      "to": "LOC-101-0208",
+      "type": "traded_at",
+      "kind": "association",
+      "status": "existing",
+      "note": "蛊坊街为零售与小修；临江蛊虫交易市场在南岸区，二者不是同一地点。",
+      "source": "09_临江市城市档案.md §7"
+    },
+    {
+      "id": "REL-00201",
+      "from": "ORG-016",
+      "to": "CITY-101",
+      "type": "headquarters_in",
+      "kind": "association",
+      "status": "existing",
+      "note": "总部临江市；凡蛊量产。",
+      "source": "09_临江市城市档案.md §11"
+    },
+    {
+      "id": "REL-00202",
+      "from": "ORG-017",
+      "to": "CITY-101",
+      "type": "headquarters_in",
+      "kind": "association",
+      "status": "existing",
+      "note": "总部临江市；港口与保税。",
+      "source": "09_临江市城市档案.md §11"
+    },
+    {
+      "id": "REL-00203",
+      "from": "O-B-003",
+      "to": "O-B-001",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「可作 O-B-003 幼体猎物」：层藓兽捕食檐鸮幼体；森林边缘与城市边缘交界带为接触面，成体檐鸮不在该食谱主项【原创设定·契约明载】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-01"
+    },
+    {
+      "id": "REL-00204",
+      "from": "O-B-003",
+      "to": "O-B-002",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「被 O-B-003 捕食」：隧锈鼠自地下管廊／矿道进入森林边缘时被伏击；机制为本体伏击，非蛊效【原创设定·契约明载】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-02"
+    },
+    {
+      "id": "REL-00205",
+      "from": "O-B-003",
+      "to": "O-B-005",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「捕食 O-B-005」：伏击落单或离群个体；群 200～2000 的群居本身降低单个被捕概率【原创设定·契约明载】＋【合理推测】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-03"
+    },
+    {
+      "id": "REL-00206",
+      "from": "O-B-008",
+      "to": "O-B-002",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「捕食 O-B-002」：沼泽与地下管廊交汇处的机会捕食；泥囊螈「普通动物」智慧、不组杀招，靠本体机会捕食【原创设定·契约明载】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-04"
+    },
+    {
+      "id": "REL-00207",
+      "from": "O-B-008",
+      "to": "O-B-007",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「捕食 O-B-007」：洄鳞鲮进入沼泽河口段时被机会捕食；与 R-12 河口竞争并存、不互相推翻【原创设定·契约明载】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-05"
+    },
+    {
+      "id": "REL-00208",
+      "from": "O-B-009",
+      "to": "O-B-007",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「捕食 O-B-007 洄游群」：滤食为主、偶捕食大型；洄鳞鲮洄游群在近海被整群纳入滤食／偶捕对象；巨兽体型以「受毒剂量／过滤面积」入场，不写作「强」【原创设定·契约明载】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-06"
+    },
+    {
+      "id": "REL-00209",
+      "from": "O-B-006",
+      "to": "O-B-005",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「捕食落单 O-B-005」：流沙伏击只针对离群／落单个体，群体正面不触发；前置为「落单＋踏入流沙区」【原创设定·契约明载】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-07"
+    },
+    {
+      "id": "REL-00210",
+      "from": "O-B-006",
+      "to": "O-B-002",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「捕食 O-B-002」：隧锈鼠进入荒漠边缘矿道／流沙带时被伏击；与 R-02 并存，属不同捕食者共享同一猎物【原创设定·契约明载】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-08"
+    },
+    {
+      "id": "REL-00211",
+      "from": "O-B-003",
+      "to": "O-B-011",
+      "type": "predation",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「被 O-B-003 偶食」：**偶食**，非稳定食谱主项；晶隙蛰离开洞窟能量环境后是否仍可被食、是否带特殊能量残留【待考证】（捕食／被捕食）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-09"
+    },
+    {
+      "id": "REL-00212",
+      "from": "O-B-001",
+      "to": "O-B-010",
+      "type": "competition",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「与 O-B-010 竞争城市上空」／「与 O-B-001 竞争城市上空」：竞争对象为**城市上空的空间与气流微粒／飞虫资源**；两者食性不同（飞虫 vs 气流微粒），竞争的是空域而非同一食物【原创设定·契约明载】＋【合理推测】（竞争）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-10"
+    },
+    {
+      "id": "REL-00213",
+      "from": "O-B-003",
+      "to": "O-B-012",
+      "type": "competition",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「与 O-B-012 在秘境林缘竞争」／「与 O-B-003 秘境林缘竞争」：竞争对象为**秘境林缘的空间与边缘资源**；阈鹿优势来自边界裂隙感知（本体天赋），层藓兽来自伏击，二者机制不同、不并成强弱线【原创设定·契约明载】（竞争）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-11"
+    },
+    {
+      "id": "REL-00214",
+      "from": "O-B-008",
+      "to": "O-B-009",
+      "type": "competition",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「与 O-B-009 河口个体竞争」：仅**河口个体**层面竞争（沼泽—近海交汇带的腐食／机会捕食资源），不是全种群竞争；潮脊鲸主体在海洋／深海【原创设定·契约明载】（竞争）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-12"
+    },
+    {
+      "id": "REL-00215",
+      "from": "O-B-004",
+      "to": "O-B-011",
+      "type": "symbiosis",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「与 O-B-011 共生（蛰清理甲缝）」：晶隙蛰清理砾背驮兽甲缝，驮兽提供甲缝栖位与矿脉移动；双方获益；**不等于任一方可催动蛊**，也不给驮兽加真元【原创设定·契约明载】（共生）",
+      "source": "妖兽分类与生态体系.md §7.1 / R-13"
+    },
+    {
+      "id": "REL-00216",
+      "from": "O-B-002",
+      "to": "O-B-011",
+      "type": "ecology_other",
+      "kind": "association",
+      "status": "proposed",
+      "note": "契约「与 O-B-011 共存矿道」／「与 O-B-002 共存矿道」：同栖矿道但不互为条件、非互利共生，判**共存／伴生**，不升格为共生；矿锈与能量凝结体为不同资源位【原创设定·契约明载】＋【合理推测】（伴生（共存））",
+      "source": "妖兽分类与生态体系.md §7.1 / R-15"
+    },
+    {
+      "id": "REL-00217",
+      "from": "O-G-110",
+      "to": "O-B-012",
+      "type": "host_of",
+      "kind": "association",
+      "status": "proposed",
+      "note": "界隙蛊被动寄生于阈鹿体表；未被炼化、不可催动；同名仙蛊天下唯一。",
+      "source": "仙蛊唯一性登记表.md §4 / 原创妖兽图鉴.md O-B-012"
+    },
+    {
+      "id": "REL-00218",
+      "from": "O-B-012",
+      "to": "O-G-110",
+      "type": "carries_gu",
+      "kind": "association",
+      "status": "proposed",
+      "note": "携带≠可控≠可催动；阈鹿不主动使用界隙蛊。",
+      "source": "原创妖兽图鉴.md O-B-012"
+    },
+    {
+      "id": "REL-00219",
+      "from": "O-B-001",
+      "to": "REALM-012",
+      "type": "occasional",
+      "kind": "association",
+      "status": "proposed",
+      "note": "仅偶入记录，不判定为云栖花园或该秘境的现存物种。",
+      "source": "原创妖兽图鉴.md O-B-001"
+    },
+    {
+      "id": "REL-00220",
+      "from": "O-B-002",
+      "to": "REALM-012",
+      "type": "habitat",
+      "kind": "association",
+      "status": "proposed",
+      "note": "地下管廊与旧城地下管网为隧锈鼠主要栖息环境；REALM-012 属同类空间，按原文表述登记。",
+      "source": "原创妖兽图鉴.md O-B-002"
+    }
+  ]
+}

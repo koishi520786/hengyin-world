@@ -1,0 +1,1095 @@
+{
+ "schema_version": "1.0",
+ "count": 64,
+ "note": "秘境只建登记索引，不建实体正文档案；完整资料在原 10 号总目录与各分卷。",
+ "entries": [
+  {
+   "id": "REALM-001",
+   "name": "枢南回廊",
+   "country": "苍垠共和邦联",
+   "coords": "9.8°E 33.4°N",
+   "t": "T7",
+   "s": "S3",
+   "d": "D4",
+   "r": "R5",
+   "st": "ST-2",
+   "ds": "DS-07",
+   "note": "天枢南麓矿道网，元石与高山蛊材",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-005",
+   "name": "岱泽水眼",
+   "country": "岱泽共管区",
+   "coords": "40.2°E 44.2°N",
+   "t": "T10",
+   "s": "S2",
+   "d": "D2",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-09",
+   "note": "湖底时间流速异常区，保护区",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-008",
+   "name": "白堰渠底",
+   "country": "白堰共和国",
+   "coords": "50.6°E 33.2°N",
+   "t": "T7",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-08",
+   "note": "水利工程挖出的旧渠空间，完全开放",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-011",
+   "name": "天枢第三谷",
+   "country": "朔原自由邦",
+   "coords": "10.4°E 35.2°N",
+   "t": "T4",
+   "s": "S2",
+   "d": "D4",
+   "r": "R5",
+   "st": "ST-2",
+   "ds": "DS-04",
+   "note": "山间谷地遗迹，已登记未开发",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-013",
+   "name": "九叠洞",
+   "country": "曜川·屏山州",
+   "coords": "58.6°E 29.2°N",
+   "t": "T7",
+   "s": "S3",
+   "d": "D4",
+   "r": "R5",
+   "st": "ST-2",
+   "ds": "DS-05",
+   "note": "九层溶洞，下层有野生蛊虫群",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-014",
+   "name": "港底旧城",
+   "country": "曜川·曜口州",
+   "coords": "70.2°E 28.2°N",
+   "t": "T8",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-1",
+   "ds": "DS-07",
+   "note": "港口下被淹没的旧城，半开放",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-015",
+   "name": "枢南矿眼",
+   "country": "苍垠共和邦联",
+   "coords": "7.4°E 32.6°N",
+   "t": "T6",
+   "s": "S1",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "元石露头，已商业开采",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-016",
+   "name": "屏顶风廊",
+   "country": "朔州联合省",
+   "coords": "36.8°E 59.6°N",
+   "t": "T2",
+   "s": "S3",
+   "d": "D5",
+   "r": "R4",
+   "st": "ST-3",
+   "ds": "DS-05",
+   "note": "高原风蚀廊道，内部地形随季风变",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-017",
+   "name": "岐原麦下",
+   "country": "岐原共和国",
+   "coords": "32.4°E 36.8°N",
+   "t": "T6",
+   "s": "S2",
+   "d": "D1",
+   "r": "R2",
+   "st": "ST-1",
+   "ds": "DS-08",
+   "note": "平原土层下的干燥仓储空间",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-018",
+   "name": "岱泽沉钟",
+   "country": "岱泽共管区",
+   "coords": "40.6°E 43.8°N",
+   "t": "T4",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-2",
+   "ds": "DS-09",
+   "note": "湖底铜钟遗迹，合潮期限时显形",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-019",
+   "name": "岐水断桥",
+   "country": "洛水自治领",
+   "coords": "35.2°E 26.8°N",
+   "t": "T4",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-07",
+   "note": "古桥残段形成的半封闭空间",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-020",
+   "name": "万岭雾谷",
+   "country": "万岭山地联邦",
+   "coords": "56.8°E 41.4°N",
+   "t": "T2",
+   "s": "S2",
+   "d": "D4",
+   "r": "R4",
+   "st": "ST-4",
+   "ds": "DS-05",
+   "note": "常年浓雾，入口漂移",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-021",
+   "name": "东陵零号场",
+   "country": "东陵自由市",
+   "coords": "68.6°E 36.9°N",
+   "t": "T1",
+   "s": "S1",
+   "d": "D1",
+   "r": "R1",
+   "st": "ST-1",
+   "ds": "DS-08",
+   "note": "训练型秘境，按小时出租",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-022",
+   "name": "冀野潮下",
+   "country": "冀野共和国",
+   "coords": "78.8°E 21.2°N",
+   "t": "T1",
+   "s": "S2",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-2",
+   "ds": "DS-06",
+   "note": "潮间带蛊材区，季节性采集",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-023",
+   "name": "槐川香窟",
+   "country": "槐川公国",
+   "coords": "60.2°E 17.6°N",
+   "t": "T6",
+   "s": "S1",
+   "d": "D1",
+   "r": "R2",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "香料蛊植物密集洞窟",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-024",
+   "name": "白堰渠底二段",
+   "country": "白堰共和国",
+   "coords": "50.4°E 33.4°N",
+   "t": "T7",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-08",
+   "note": "与 008 相连的下层渠段",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-025",
+   "name": "南屏雷谷",
+   "country": "南屏联邦",
+   "coords": "26.2°E 21.2°N",
+   "t": "T2",
+   "s": "S2",
+   "d": "D4",
+   "r": "R4",
+   "st": "ST-3",
+   "ds": "DS-04",
+   "note": "雷暴频发谷地，真元紊乱",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-026",
+   "name": "朔原星台",
+   "country": "朔原自由邦",
+   "coords": "11.2°E 41.4°N",
+   "t": "T1",
+   "s": "S0",
+   "d": "D0",
+   "r": "R1",
+   "st": "ST-1",
+   "ds": "DS-08",
+   "note": "天文观测点，无资源",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-002",
+   "name": "裂谷之下",
+   "country": "赫兰联邦",
+   "coords": "74.0°W 5.0°N",
+   "t": "T9",
+   "s": "S4",
+   "d": "D6",
+   "r": "R6",
+   "st": "ST-4",
+   "ds": "DS-10",
+   "note": "裂谷底层独立小世界，国家级封锁",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-027",
+   "name": "银脊雪仓",
+   "country": "德拉维联合省",
+   "coords": "84.6°W 24.2°N",
+   "t": "T3",
+   "s": "S2",
+   "d": "D4",
+   "r": "R5",
+   "st": "ST-5",
+   "ds": "DS-05",
+   "note": "冰川内封闭空间，逐渐崩塌",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-028",
+   "name": "内海盐喉",
+   "country": "内海共同开发区",
+   "coords": "66.2°W 17.4°N",
+   "t": "T6",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-06",
+   "note": "海底盐层通道，盐蛊蛊材",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-029",
+   "name": "裂谷第七支",
+   "country": "赫兰联邦",
+   "coords": "73.6°W 2.4°N",
+   "t": "T7",
+   "s": "S3",
+   "d": "D6",
+   "r": "R6",
+   "st": "ST-4",
+   "ds": "DS-10",
+   "note": "裂谷支脉深层，与 002 同系",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-030",
+   "name": "米尔水底",
+   "country": "米尔自治邦",
+   "coords": "60.6°W 52.4°N",
+   "t": "T3",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "湖底旧村，水质异常清澈",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-031",
+   "name": "南原藤门",
+   "country": "南赫兰种植园邦联",
+   "coords": "60.4°W 31.6°S",
+   "t": "T1",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-06",
+   "note": "巨型藤蔓构成的立体空间",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-032",
+   "name": "瑟兰酒窖",
+   "country": "瑟兰共和国",
+   "coords": "61.8°W 27.6°S",
+   "t": "T1",
+   "s": "S0",
+   "d": "D0",
+   "r": "R1",
+   "st": "ST-1",
+   "ds": "DS-08",
+   "note": "地下酒窖，温度恒定，无异常",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-033",
+   "name": "科兰雾礁",
+   "country": "科兰公国",
+   "coords": "88.4°W 21.6°N",
+   "t": "T2",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-6",
+   "ds": "DS-04",
+   "note": "移动入口，随洋流漂移的礁区",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-034",
+   "name": "北原冰裂",
+   "country": "米尔自治邦",
+   "coords": "58.2°W 49.6°N",
+   "t": "T3",
+   "s": "S2",
+   "d": "D4",
+   "r": "R4",
+   "st": "ST-3",
+   "ds": "DS-09",
+   "note": "冰裂缝生态，保护区",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-035",
+   "name": "德拉维铜脉",
+   "country": "德拉维联合省",
+   "coords": "68.4°W 11.6°N",
+   "t": "T6",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "铜矿脉伴生蛊材",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-036",
+   "name": "内海沉船带",
+   "country": "内海共同开发区",
+   "coords": "65.6°W 18.6°N",
+   "t": "T5",
+   "s": "S2",
+   "d": "D2",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-07",
+   "note": "古战场沉船群，文物与蛊材",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-037",
+   "name": "东原石环",
+   "country": "赫兰联邦",
+   "coords": "60.2°W 36.4°N",
+   "t": "T4",
+   "s": "S2",
+   "d": "D4",
+   "r": "R5",
+   "st": "ST-8",
+   "ds": "DS-05",
+   "note": "石环遗迹，需特定条件开启",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-038",
+   "name": "银脊南窗",
+   "country": "德拉维联合省",
+   "coords": "86.2°W 13.8°N",
+   "t": "T7",
+   "s": "S1",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "高原竖井，底部有热泉",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-003",
+   "name": "九城沉眠",
+   "country": "赤砂九王庭",
+   "coords": "46.0°E 8.0°S",
+   "t": "T8",
+   "s": "S3",
+   "d": "D4",
+   "r": "R7",
+   "st": "ST-1",
+   "ds": "DS-12",
+   "note": "九座古城遗址，三方所有权争议",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-010",
+   "name": "乌祖绿洲之眼",
+   "country": "乌祖商团联合",
+   "coords": "70.0°E 14.0°S",
+   "t": "T6",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-2",
+   "ds": "DS-07",
+   "note": "绿洲地下水眼，限时开放",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-039",
+   "name": "焰砂骨城",
+   "country": "赤砂九王庭",
+   "coords": "68.4°E 12.6°S",
+   "t": "T5",
+   "s": "S3",
+   "d": "D5",
+   "r": "R6",
+   "st": "ST-3",
+   "ds": "DS-12",
+   "note": "沙下古战场，骨骸与残蛊",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-040",
+   "name": "苏哈树心",
+   "country": "苏哈雨林自治领",
+   "coords": "38.6°E 2.6°S",
+   "t": "T3",
+   "s": "S2",
+   "d": "D4",
+   "r": "R5",
+   "st": "ST-1",
+   "ds": "DS-09",
+   "note": "巨树内部空间，生态独特",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-041",
+   "name": "沉城 B-7",
+   "country": "赤砂九王庭",
+   "coords": "52.6°E 18.4°S",
+   "t": "T8",
+   "s": "S3",
+   "d": "D5",
+   "r": "R6",
+   "st": "ST-4",
+   "ds": "DS-03",
+   "note": "沙下城市，入口不稳定",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-042",
+   "name": "白镜盐井",
+   "country": "白镜公国",
+   "coords": "52.2°E 24.2°S",
+   "t": "T6",
+   "s": "S0",
+   "d": "D1",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "盐井底部结晶空间",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-043",
+   "name": "乌祖沙喉",
+   "country": "乌祖商团联合",
+   "coords": "74.2°E 15.6°S",
+   "t": "T2",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-6",
+   "ds": "DS-07",
+   "note": "移动沙丘下的通道",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-044",
+   "name": "焰脊火口",
+   "country": "焰脊共和国",
+   "coords": "88.2°E 29.6°S",
+   "t": "T3",
+   "s": "S2",
+   "d": "D4",
+   "r": "R5",
+   "st": "ST-3",
+   "ds": "DS-04",
+   "note": "火山口内空腔，地热极强",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-045",
+   "name": "九城副墓",
+   "country": "赤砂九王庭",
+   "coords": "46.4°E 7.6°S",
+   "t": "T4",
+   "s": "S2",
+   "d": "D4",
+   "r": "R6",
+   "st": "ST-1",
+   "ds": "DS-12",
+   "note": "九城附属墓群，与 003 同争议",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-046",
+   "name": "苏哈水轮",
+   "country": "苏哈雨林自治领",
+   "coords": "37.8°E 3.4°S",
+   "t": "T1",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-08",
+   "note": "雨林水车遗迹，生态稳定",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-047",
+   "name": "大漠孤井",
+   "country": "赤砂九王庭",
+   "coords": "72.6°E 14.2°S",
+   "t": "T7",
+   "s": "S1",
+   "d": "D3",
+   "r": "R3",
+   "st": "ST-7",
+   "ds": "DS-02",
+   "note": "随机出现的井，传闻未证实",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-048",
+   "name": "南境葡萄石",
+   "country": "赤砂南境",
+   "coords": "60.4°E 33.6°S",
+   "t": "T1",
+   "s": "S1",
+   "d": "D1",
+   "r": "R2",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "葡萄园下的石室，酿酒用",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-006",
+   "name": "霜盖冰窟",
+   "country": "霜栎共和国",
+   "coords": "104.0°E 74.0°S",
+   "t": "T3",
+   "s": "S3",
+   "d": "D5",
+   "r": "R5",
+   "st": "ST-5",
+   "ds": "DS-05",
+   "note": "冰盖下空腔，科考管理",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-049",
+   "name": "冰下湖 K-3",
+   "country": "霜栎共和国",
+   "coords": "106.4°E 71.6°S",
+   "t": "T3",
+   "s": "S3",
+   "d": "D5",
+   "r": "R5",
+   "st": "ST-5",
+   "ds": "DS-09",
+   "note": "冰下湖生态，保护区",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-050",
+   "name": "白栎树洞",
+   "country": "白栎联邦",
+   "coords": "78.4°E 55.6°S",
+   "t": "T1",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "巨树洞，林业副产品",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-051",
+   "name": "凛原气穴",
+   "country": "凛原自治领",
+   "coords": "100.4°E 63.6°S",
+   "t": "T7",
+   "s": "S2",
+   "d": "D4",
+   "r": "R4",
+   "st": "ST-1",
+   "ds": "DS-05",
+   "note": "天然气田伴生空腔，禁火",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-052",
+   "name": "极南冰芯室",
+   "country": "极南科考共管区",
+   "coords": "90.2°E 77.6°S",
+   "t": "T1",
+   "s": "S0",
+   "d": "D0",
+   "r": "R2",
+   "st": "ST-1",
+   "ds": "DS-09",
+   "note": "冰芯保存室，科研专用",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-053",
+   "name": "霜港沉礁",
+   "country": "霜栎共和国",
+   "coords": "128.6°E 47.6°S",
+   "t": "T5",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-07",
+   "note": "沉船礁区，季节性打捞",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-004",
+   "name": "澜口潮窟",
+   "country": "澜海峡（苍垠/澜屿交界）",
+   "coords": "156.0°E 12.0°N",
+   "t": "T2",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-07",
+   "note": "海峡潮汐洞窟，两国共管",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-009",
+   "name": "长环外礁",
+   "country": "长环自由港",
+   "coords": "159.0°E 19.0°N",
+   "t": "T1",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-06",
+   "note": "珊瑚外礁，潜水与蛊材",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-054",
+   "name": "珊海白化带",
+   "country": "珊海共和国",
+   "coords": "151.6°E 9.4°S",
+   "t": "T1",
+   "s": "S2",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-5",
+   "ds": "DS-09",
+   "note": "白化珊瑚区，生态保护",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-055",
+   "name": "澜京旧渠",
+   "country": "澜河邦联",
+   "coords": "148.4°E 15.6°N",
+   "t": "T7",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-06",
+   "note": "城市旧排水系统，已开发",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-056",
+   "name": "火山弧第七口",
+   "country": "火山弧自治领",
+   "coords": "172.4°E 5.6°S",
+   "t": "T3",
+   "s": "S2",
+   "d": "D4",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-05",
+   "note": "火山口第七喷发口，周期开放",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-057",
+   "name": "南屿潮墓",
+   "country": "南屿联合",
+   "coords": "168.2°E 17.6°S",
+   "t": "T5",
+   "s": "S2",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-2",
+   "ds": "DS-04",
+   "note": "海葬墓群，合潮显形",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-058",
+   "name": "长环锚地隙",
+   "country": "长环自由港",
+   "coords": "158.4°E 18.4°N",
+   "t": "T7",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-6",
+   "ds": "DS-07",
+   "note": "锚地下方空腔，入口随锚链移动",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-007",
+   "name": "北溟深渊门",
+   "country": "玄溟联合管制区",
+   "coords": "60.0°E 78.0°N",
+   "t": "T9",
+   "s": "S5",
+   "d": "D8",
+   "r": "R6",
+   "st": "ST-4",
+   "ds": "DS-11",
+   "note": "环极大陆最大独立空间，军事管制",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-059",
+   "name": "北溟热井",
+   "country": "北溟海权国",
+   "coords": "150.4°W 69.6°N",
+   "t": "T7",
+   "s": "S2",
+   "d": "D4",
+   "r": "R5",
+   "st": "ST-1",
+   "ds": "DS-11",
+   "note": "海底热泉井，军工优先",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-060",
+   "name": "深渊第六层",
+   "country": "深渊自治领",
+   "coords": "90.4°E 79.6°N",
+   "t": "T9",
+   "s": "S4",
+   "d": "D8",
+   "r": "R7",
+   "st": "ST-4",
+   "ds": "DS-11",
+   "note": "深渊站下方第六层空间，未探明",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-012",
+   "name": "临江地下层",
+   "country": "临江市中城区",
+   "coords": "—",
+   "t": "T7",
+   "s": "S1",
+   "d": "D3",
+   "r": "R4",
+   "st": "ST-1",
+   "ds": "DS-07",
+   "note": "旧城地下管网＋空间折叠区，市政管控",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-061",
+   "name": "屏岭落星坳",
+   "country": "临江市屏岭街道北 6 km",
+   "coords": "—",
+   "t": "T2",
+   "s": "S2",
+   "d": "D3",
+   "r": "R3",
+   "st": "ST-1",
+   "ds": "DS-07",
+   "note": "低丘间的洼地，夜有微光，半开放",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-062",
+   "name": "临港沉船坑",
+   "country": "临江市临港区海底",
+   "coords": "—",
+   "t": "T5",
+   "s": "S1",
+   "d": "D2",
+   "r": "R3",
+   "st": "ST-2",
+   "ds": "DS-07",
+   "note": "清代沉船群，打捞许可制",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-063",
+   "name": "澜湾潮眼",
+   "country": "临江市澜湾区潮间带",
+   "coords": "—",
+   "t": "T1",
+   "s": "S1",
+   "d": "D2",
+   "r": "R2",
+   "st": "ST-2",
+   "ds": "DS-08",
+   "note": "合潮期限时开放的低阶蛊材区",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  },
+  {
+   "id": "REALM-064",
+   "name": "云栖河水眼",
+   "country": "临江市北城区云栖河下游",
+   "coords": "—",
+   "t": "T1",
+   "s": "S0",
+   "d": "D1",
+   "r": "R1",
+   "st": "ST-1",
+   "ds": "DS-04",
+   "note": "已登记未开发的小型水眼",
+   "content_file": null,
+   "source_files": [
+    "01_最终版/现代蛊道世界_v1.0/10_全球秘境总目录.md"
+   ]
+  }
+ ]
+}

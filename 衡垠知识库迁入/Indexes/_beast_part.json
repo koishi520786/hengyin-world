@@ -1,0 +1,4117 @@
+{
+ "beasts": {
+  "C-B-001": {
+   "id": "C-B-001",
+   "name": "玉眼石猴",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "普通野兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "群居石林石洞；具体能力【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-001.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-002": {
+   "id": "C-B-002",
+   "name": "石猴王（玉眼石猴王）",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "百兽王",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "统御数百只石猴；「身上都会有一两只蛊虫寄生」，与蛊为「共同合作」关系，遇袭蛊虫出力相助（**个例描述，不扩大**）",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-002.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-003": {
+   "id": "C-B-003",
+   "name": "野猪王",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "千兽王",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "统御上千头野猪",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-003.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-004": {
+   "id": "C-B-004",
+   "name": "电狼",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "普通野兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "苍鹰般敏锐视力、嗅觉与人类相近；体内寄居多种蛊虫（见《携蛊档案》案例 G）",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-004.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-005": {
+   "id": "C-B-005",
+   "name": "豪电狼",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "百兽王",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "体型比普通电狼大一倍，狼毛炸立、白银色利齿；C-G-511 电流蛊「一般寄居在豪电狼身上」",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-005.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": [
+    {
+     "type": "cites_gu",
+     "target": "C-G-511",
+     "source_section": "逐条档案"
+    }
+   ]
+  },
+  "C-B-006": {
+   "id": "C-B-006",
+   "name": "狂电狼",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "千兽王",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "身躯皆有象一般巨大",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-006.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-007": {
+   "id": "C-B-007",
+   "name": "雷冠头狼",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "万兽王",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "头毛炸起如高耸王冠、幽蓝鳞片、修长矫健；C-G-648 雷盾蛊「一般寄居在雷冠头狼身上」",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-007.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】／【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": [
+    {
+     "type": "cites_gu",
+     "target": "C-G-648",
+     "source_section": "逐条档案"
+    }
+   ]
+  },
+  "C-B-008": {
+   "id": "C-B-008",
+   "name": "电狼群（狼潮）",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "兽群",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "「掀起狼潮」；兽群规模越大越可能产生高阶兽王",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-008.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-009": {
+   "id": "C-B-009",
+   "name": "霸黄",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "兽皇",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "具体能力【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-009.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-010": {
+   "id": "C-B-010",
+   "name": "嘤鸣",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "兽皇",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "具体能力【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-010.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-011": {
+   "id": "C-B-011",
+   "name": "狐群（红狐／金狐／云狐／风狐／秋水狐／流光狐）",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "兽群",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "普通狐狸，无异兽血统；可放牧发展",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-011.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-012": {
+   "id": "C-B-012",
+   "name": "山猪",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "普通野兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-012.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-013": {
+   "id": "C-B-013",
+   "name": "雷猪",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "特殊（异兽）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-013.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-014": {
+   "id": "C-B-014",
+   "name": "昆仑牛",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "特殊（异兽）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-014.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-015": {
+   "id": "C-B-015",
+   "name": "狮獒",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "特殊（异兽）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-015.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-016": {
+   "id": "C-B-016",
+   "name": "泥沼蟹",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "巨蟹、山样身躯；第一对螯足「轻轻一夹，就能断山石。剪蛟龙！」，其余十八只螯足比百年古木粗壮；披厚重烂泥；喷吐大量泥浆、从泥浆中杀出螃蟹大军；**身上寄生大量蛊虫，多为水、土两道，「有时候，甚至是整整一支蛊群」**",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-016.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-017": {
+   "id": "C-B-017",
+   "name": "钻头鳖",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "上古荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "大如海船、扁甲壳；脑袋如大锥子、尖嘴有天然螺纹、半透明如品质不高的钻石；水中速度极快，亦可在土壤中钻行（脑袋探出旋转破土），因甲壳拖累土中速度远不如水中；**「虽然只是野生，智力不足，但是也有敏锐的直觉」**",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-017.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-018": {
+   "id": "C-B-018",
+   "name": "星魔蝠（镇山荒兽）",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "巨大蝠翼掀起磅礴飓风、绽射无数星光箭矢（「不过区区的二转星箭蛊，只是数量多些罢了」）；精妙飞行术（「至少得是个飞行宗师」）；口吐流星；催动星道／风道／暗道蛊虫远程克敌；**「身上寄生的野生蛊虫规模庞大」「它身上尽是凡蛊」**",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-018.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-019": {
+   "id": "C-B-019",
+   "name": "戾血龙蝠（又作唳血龙蝠）",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "上古荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-019.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】／名称异写【存在争议】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-020": {
+   "id": "C-B-020",
+   "name": "九尾狐",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "太古荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-020.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-021": {
+   "id": "C-B-021",
+   "name": "飓风狐",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-021.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-022": {
+   "id": "C-B-022",
+   "name": "凤翼狐",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-022.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-023": {
+   "id": "C-B-023",
+   "name": "歧牙猪",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "上古荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-023.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【原著明确】／【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-024": {
+   "id": "C-B-024",
+   "name": "飞熊",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-024.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": [
+    {
+     "type": "cites_gu",
+     "target": "C-G-247",
+     "source_section": "逐条档案"
+    }
+   ]
+  },
+  "C-B-025": {
+   "id": "C-B-025",
+   "name": "烟华鼋",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽（海中）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "「擅迷幻遮掩，速度不佳防御不强」（变化道「烟华鼋甲」所本）",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-025.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-026": {
+   "id": "C-B-026",
+   "name": "天马",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "上古荒兽级",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-026.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-027": {
+   "id": "C-B-027",
+   "name": "天残犬",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽（犬类）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-027.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-028": {
+   "id": "C-B-028",
+   "name": "星荒犬",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽（犬类）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-028.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-029": {
+   "id": "C-B-029",
+   "name": "玉像残白犬",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽（犬类）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-029.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-030": {
+   "id": "C-B-030",
+   "name": "铁冠鹰",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽（飞禽）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "铁刺利爪、悍勇；石磊以变化道杀招化为此形与星魔蝠空战，鹰爪抓破蝠翼致其「漏风」、飞行下降",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-030.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-031": {
+   "id": "C-B-031",
+   "name": "气宗狮",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-031.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-032": {
+   "id": "C-B-032",
+   "name": "桃太狼",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-032.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-033": {
+   "id": "C-B-033",
+   "name": "叱咤鲸",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-033.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-034": {
+   "id": "C-B-034",
+   "name": "黄玉狮子",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "荒兽",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-034.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-035": {
+   "id": "C-B-035",
+   "name": "年兽",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "特殊（宙道道兽）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "「年兽召来」以仙级年蛊自光阴长河召来；「**非奴役、掌控弱、遇强敌不战、中途索要更多年蛊**」",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-035.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-036": {
+   "id": "C-B-036",
+   "name": "泥怪",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "特殊（土道道兽）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "道兽「纯粹由本流派道痕凝聚成的生灵，没有一般生物所谓的器官、要害，部分道兽死后道痕会凝结成该流派道痕的核心」",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-036.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "C-B-037": {
+   "id": "C-B-037",
+   "name": "混元一气子",
+   "type": "beast",
+   "origin": "C-B",
+   "origin_label": "原著兽类",
+   "partition": "C-B",
+   "is_world_species": false,
+   "world_status": "原著参照物种，不作为本世界实存物种",
+   "category": "太古传奇荒兽（气道）",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": "【原著未明确】",
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "table_entry",
+   "content_file": "Beasts/C-B/C-B-037.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原著兽类图鉴.md"
+   ],
+   "credibility": "【可靠资料佐证】",
+   "flags": [
+    "table_only"
+   ],
+   "relations": []
+  },
+  "R-B-001": {
+   "id": "R-B-001",
+   "name": "鹿蜀",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-001.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-002": {
+   "id": "R-B-002",
+   "name": "旋龟",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-002.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-003": {
+   "id": "R-B-003",
+   "name": "鯥",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-003.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-004": {
+   "id": "R-B-004",
+   "name": "猼訑",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-004.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-005": {
+   "id": "R-B-005",
+   "name": "九尾狐（青丘之山）",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-005.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-006": {
+   "id": "R-B-006",
+   "name": "蛊雕",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-006.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-007": {
+   "id": "R-B-007",
+   "name": "凤凰（丹穴之山）",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-007.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-008": {
+   "id": "R-B-008",
+   "name": "烛龙／烛阴",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-008.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-009": {
+   "id": "R-B-009",
+   "name": "鲲鹏",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-009.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-010": {
+   "id": "R-B-010",
+   "name": "六耳猕猴",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-010.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-011": {
+   "id": "R-B-011",
+   "name": "云程万里鹏",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-011.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-012": {
+   "id": "R-B-012",
+   "name": "狐女（婴宁、小翠、青凤、娇娜）",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-012.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-013": {
+   "id": "R-B-013",
+   "name": "天狗",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-013.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-014": {
+   "id": "R-B-014",
+   "name": "河童",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-014.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-015": {
+   "id": "R-B-015",
+   "name": "雪女",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-015.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-016": {
+   "id": "R-B-016",
+   "name": "络新妇（女郎蜘蛛）",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-016.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-017": {
+   "id": "R-B-017",
+   "name": "九尾狐 Gumiho／Kumiho",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-017.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-018": {
+   "id": "R-B-018",
+   "name": "迦楼罗 Garuda",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-018.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-019": {
+   "id": "R-B-019",
+   "name": "那伽 Nāga",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-019.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-020": {
+   "id": "R-B-020",
+   "name": "大鹏 Roc／Rukh",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-020.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-021": {
+   "id": "R-B-021",
+   "name": "思摩夫 Simurgh",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-021.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-022": {
+   "id": "R-B-022",
+   "name": "芬里尔 Fenrir",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-022.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-023": {
+   "id": "R-B-023",
+   "name": "耶梦加得 Jörmungandr",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-023.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-024": {
+   "id": "R-B-024",
+   "name": "尼德霍格 Níðhöggr",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-024.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-025": {
+   "id": "R-B-025",
+   "name": "许德拉 Hydra",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-025.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-026": {
+   "id": "R-B-026",
+   "name": "奇美拉 Chimaera",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-026.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-027": {
+   "id": "R-B-027",
+   "name": "凯尔派 Kelpie",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-027.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-028": {
+   "id": "R-B-028",
+   "name": "基基莫拉 Kikimora",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-028.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-029": {
+   "id": "R-B-029",
+   "name": "阿南西 Anansi",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-029.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-030": {
+   "id": "R-B-030",
+   "name": "温迪戈 Wendigo",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-030.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-031": {
+   "id": "R-B-031",
+   "name": "羽蛇神 Quetzalcoatl／Gucumatz",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-031.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-032": {
+   "id": "R-B-032",
+   "name": "Bakunawa",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-032.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-033": {
+   "id": "R-B-033",
+   "name": "那伽 Phaya Nak／Antaboga（东南亚）",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-033.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-034": {
+   "id": "R-B-034",
+   "name": "修格斯 Shoggoth",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-034.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-035": {
+   "id": "R-B-035",
+   "name": "深潜者 Deep Ones",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-035.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-036": {
+   "id": "R-B-036",
+   "name": "X 区域变异生物",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-036.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-037": {
+   "id": "R-B-037",
+   "name": "夜魔（新人类）",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-037.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-038": {
+   "id": "R-B-038",
+   "name": "炎魔 Balrog",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-038.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-039": {
+   "id": "R-B-039",
+   "name": "地海之龙 Kalessin",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-039.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "R-B-040": {
+   "id": "R-B-040",
+   "name": "鹰头马身有翼兽 Hippogriff",
+   "type": "beast",
+   "origin": "R-B",
+   "origin_label": "跨作品参考物种",
+   "partition": "R-B",
+   "is_world_species": false,
+   "world_status": "参考物种，非本世界实存；只提取设计理念，不进入世界生态",
+   "category": "跨作品参考",
+   "danger_level": null,
+   "size": null,
+   "habitat": null,
+   "ability_summary": null,
+   "behavior": null,
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [],
+   "status": "existing",
+   "completeness": "reference_dossier",
+   "content_file": "Beasts/R-B/R-B-040.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/跨作品妖兽参考库.md"
+   ],
+   "credibility": "【参考资料】",
+   "flags": [
+    "reference_only"
+   ],
+   "relations": []
+  },
+  "O-B-001": {
+   "id": "O-B-001",
+   "name": "檐鸮",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "异化动物·禽型",
+   "danger_level": "低（契约锚定）",
+   "size": "0.3m／0.4kg，翼展约 0.62m",
+   "habitat": "城市边缘／檐下",
+   "ability_summary": "夜行小捕食者／侦查警戒驯养对象",
+   "behavior": "独栖；繁殖期成对；偶 3～5 只夜栖群",
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [
+    "REALM-012"
+   ],
+   "related_regions": [
+    "苍垠、曜川、赫兰城市"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-001.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-012",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-003",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-002": {
+   "id": "O-B-002",
+   "name": "隧锈鼠",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "异化动物·啮齿型",
+   "danger_level": "低（契约锚定）",
+   "size": "0.25m／0.6kg；群数十只",
+   "habitat": "地下管廊／地铁／矿道",
+   "ability_summary": "地下清道夫／啃矿锈者",
+   "behavior": "群居，数十只一群",
+   "carries_gu": true,
+   "carried_gu": [
+    "O-G-018",
+    "O-G-017",
+    "O-G-019",
+    "O-G-007",
+    "C-G-461"
+   ],
+   "related_realms": [
+    "REALM-001",
+    "REALM-012"
+   ],
+   "related_regions": [
+    "全球地下"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-002.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-018",
+     "relation": "commensal",
+     "note": "正文标伴生",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-017",
+     "relation": "carried_unclear",
+     "note": "正文提及携带，关系类型未明确",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-019",
+     "relation": "carried_unclear",
+     "note": "正文提及携带，关系类型未明确",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-007",
+     "relation": "carried_unclear",
+     "note": "正文提及携带，关系类型未明确",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-461",
+     "relation": "carried_unclear",
+     "note": "正文提及携带，关系类型未明确",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-001",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-012",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-004",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-006",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-217",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-003": {
+   "id": "O-B-003",
+   "name": "层藓兽",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "妖兽·动植物复合",
+   "danger_level": "高（契约锚定）",
+   "size": "体长 3.2m／约 420kg",
+   "habitat": "森林",
+   "ability_summary": "森林顶级伏击捕食者",
+   "behavior": "独居；仅繁殖期短暂成对",
+   "carries_gu": true,
+   "carried_gu": [
+    "O-G-015",
+    "O-G-018",
+    "O-G-017",
+    "C-G-028",
+    "C-G-006"
+   ],
+   "related_realms": [
+    "REALM-011"
+   ],
+   "related_regions": [
+    "苍垠、霜栎森林"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-003.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-015",
+     "relation": "parasitism",
+     "note": "体表寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-018",
+     "relation": "parasitism",
+     "note": "体表寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-017",
+     "relation": "parasitism",
+     "note": "体表寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-028",
+     "relation": "parasitism",
+     "note": "体表寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-006",
+     "relation": "parasitism",
+     "note": "体表寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-011",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-001",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-006",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-004",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-217",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-004": {
+   "id": "O-B-004",
+   "name": "砾背驮兽",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "异化动物·大型矿食",
+   "danger_level": "中（契约锚定，不改写）",
+   "size": "体长约 4.2m／肩高约 2.3m／约 2.6t；体型仅作动能、受毒剂量、部位厚度、可否被束缚的入口，不作强弱刻度【原创设定】",
+   "habitat": "山脉／矿脉（露天矿台阶、老矿道驮运线、尾矿坝、岩菌矿液渗出带）",
+   "ability_summary": "矿脉物质循环者＋大型驮运资源",
+   "behavior": "野生小群，驯养状态下可由人编成驮运队；无等级、无协同战术、无多步计划",
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [
+    "REALM-001"
+   ],
+   "related_regions": [
+    "苍垠天枢、赤砂高原"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-004.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-001",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-009",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-002",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-217",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-010",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-005": {
+   "id": "O-B-005",
+   "name": "草潮羚",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "异化动物·群居草食",
+   "danger_level": "低（契约锚定）",
+   "size": "中型有蹄，体长约 1.3m／肩高约 0.8m／约 45kg【原创设定】；具体部位分级【待考证】",
+   "habitat": "草原；必需草场与迁徙通道",
+   "ability_summary": "初级消费者＋草原调节者（R-24）＋迁徙连接种（R-25）",
+   "behavior": "群 **200～2000**（契约明载，不得改）；迁徙群，无固定首领指挥",
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [
+    "苍垠草原、岐原"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-005.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-001",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-006",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-009",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-217",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-004",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-006": {
+   "id": "O-B-006",
+   "name": "沉沙螯",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "妖兽·甲壳型",
+   "danger_level": "中高（契约锚定，不得改写）",
+   "size": "甲宽约 1.2～1.6m、体重约 40～70kg【原创设定】；具体部位分级【待考证】",
+   "habitat": "荒漠；必需流沙伏击地形",
+   "ability_summary": "荒漠伏击捕食者",
+   "behavior": "独居，各守一段流沙陷阱微地形",
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [
+    "REALM-010"
+   ],
+   "related_regions": [
+    "赤砂沙漠"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-006.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-010",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-009",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-002",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-053",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-217",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-001",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-003",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-007": {
+   "id": "O-B-007",
+   "name": "洄鳞鲮",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "异化鱼类（硬骨鱼型，鲤形近缘）【原创设定】",
+   "danger_level": "低中（契约固定；机制推导见第六、十九节）",
+   "size": "成体体长 0.8 m／体重约 7 kg；成群，单群 40～400 尾【原创设定】",
+   "habitat": "缓流河道、湖泊敞水带、河口半咸水；洄游期下溯近海【原创设定】",
+   "ability_summary": "滤食者／水质指示种／河湖—近海物质与元气转运者；被捕食的饵料层【原创设定】",
+   "behavior": "大群洄游、按水层分层滤食；无等级、无首领、无协同围猎【原创设定】",
+   "carries_gu": true,
+   "carried_gu": [
+    "O-G-003",
+    "O-G-007",
+    "C-G-059"
+   ],
+   "related_realms": [
+    "REALM-005"
+   ],
+   "related_regions": [
+    "曜川、澜河、白堰"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-007.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-003",
+     "relation": "symbiosis",
+     "note": "正文标共生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-007",
+     "relation": "symbiosis",
+     "note": "正文标共生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-059",
+     "relation": "symbiosis",
+     "note": "正文标共生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-005",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-001",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-004",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-006",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-009",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-003",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-008": {
+   "id": "O-B-008",
+   "name": "泥囊螈",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "妖兽·两栖型（无尾目巨型化，非蛊师改造）【原创设定】",
+   "danger_level": "中（契约固定；机制推导见第六、十九节）",
+   "size": "体长 2.4 m／体重约 260 kg；独居，偶见 2～3 头共食一具腐体【原创设定】",
+   "habitat": "低洼腐殖沼泽、静水回湾、河岸淤泥带、河口泥滩【原创设定】",
+   "ability_summary": "腐食者／机会捕食者／被动寄生野生蛊的「移动培养基」【原创设定】",
+   "behavior": "独居／临时共食，无等级、无首领、无协同【原创设定】",
+   "carries_gu": true,
+   "carried_gu": [
+    "C-G-096",
+    "C-G-006",
+    "C-G-031",
+    "C-G-063"
+   ],
+   "related_realms": [
+    "REALM-010"
+   ],
+   "related_regions": [
+    "赤砂绿洲、澜屿红树林"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-008.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-096",
+     "relation": "parasitism",
+     "note": "体表寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-006",
+     "relation": "parasitism",
+     "note": "体表寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-031",
+     "relation": "parasitism",
+     "note": "体内寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-063",
+     "relation": "parasitism",
+     "note": "体内寄生；携带不等于可控",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-010",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-001",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-004",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-006",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-009",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-217",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-001",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-009": {
+   "id": "O-B-009",
+   "name": "潮脊鲸",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "巨兽（鲸型海生巨兽，远古遗种孑遗）【原创设定】",
+   "danger_level": "高（契约固定；机制推导见第六、十九节）",
+   "size": "体长 28 m／体重约 90 t；独游或 2～4 头松散小群【原创设定】",
+   "habitat": "大陆架外缘—深海海槽，滤食期上浮至近海；洄游跨近海【原创设定】",
+   "ability_summary": "顶级滤食者／跨近海物质与元气转运者／稀有研究物种【原创设定】",
+   "behavior": "独游为主，偶 2～4 头松散同行；无等级、无协同围猎、无指挥行为【原创设定】",
+   "carries_gu": true,
+   "carried_gu": [
+    "C-G-004",
+    "C-G-006",
+    "C-G-085",
+    "C-G-511"
+   ],
+   "related_realms": [
+    "REALM-009"
+   ],
+   "related_regions": [
+    "澜海、环垠洋"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-009.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-004",
+     "relation": "carried_unclear",
+     "note": "正文提及携带，关系类型未明确",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-006",
+     "relation": "carried_unclear",
+     "note": "正文提及携带，关系类型未明确",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-085",
+     "relation": "commensal",
+     "note": "正文标伴生",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "C-G-511",
+     "relation": "carried_unclear",
+     "note": "正文提及携带，关系类型未明确",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-009",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-001",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-004",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-006",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-004",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-015",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-003",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-010": {
+   "id": "O-B-010",
+   "name": "悬丝鹞",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "异化动物·滑翔型（小型，鸟类近缘，非蛊师改造）【原创设定】",
+   "danger_level": "低（契约固定；机制推导见第六、十九节）",
+   "size": "翼展 1.6 m／体重约 0.5 kg；单只或 6～20 只松散同气流群【原创设定】",
+   "habitat": "城市上空高空气流层、山脊上升气流带、近海岸风带；不落地营巢【原创设定】",
+   "ability_summary": "高空滤食者／气流与静电指示种／可驯养侦查·通讯载体【原创设定】",
+   "behavior": "借同一股上升气流的松散同飞群，无等级、无首领、无协同驱敌【原创设定】",
+   "carries_gu": false,
+   "carried_gu": [],
+   "related_realms": [],
+   "related_regions": [
+    "苍垠、霜栎高空"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-010.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-001",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-004",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-006",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-009",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-003",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-011": {
+   "id": "O-B-011",
+   "name": "晶隙蛰",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "元素-昆虫型生命（特殊能量环境孳生的类昆虫集合体，非普通节肢动物）【原创设定】",
+   "danger_level": "中（契约固定；机制推导见第六、十九节）",
+   "size": "单体体长 0.15 m／单只约 40 g；**群 30～300 只**，群体为本物种的功能单位【原创设定】",
+   "habitat": "洞窟结晶壁、矿脉晶隙、特殊能量渗出带；少数登记在册的秘境飞地【原创设定】",
+   "ability_summary": "结晶能量消费者／晶面清理者／特殊能量环境指示种【原创设定】",
+   "behavior": "群体节律型集合：同步取食、同步换片、遇扰同步散开；**非首领指挥、非协同围猎**【原创设定】",
+   "carries_gu": true,
+   "carried_gu": [
+    "O-G-201",
+    "O-G-202"
+   ],
+   "related_realms": [
+    "REALM-002"
+   ],
+   "related_regions": [
+    "赫兰裂谷、玄溟洞窟"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-011.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-201",
+     "relation": "commensal",
+     "note": "正文标伴生",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-202",
+     "relation": "commensal",
+     "note": "正文标伴生",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_habitat_realm",
+     "target": "REALM-002",
+     "note": "正文／22 号索引登记",
+     "source_section": "十七、现代社会与秘境分布"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-001",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-002",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-004",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-005",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-006",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-009",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-012",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-002",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-003",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  },
+  "O-B-012": {
+   "id": "O-B-012",
+   "name": "阈鹿",
+   "type": "beast",
+   "origin": "O-B",
+   "origin_label": "原创妖兽",
+   "partition": "O-B",
+   "is_world_species": true,
+   "world_status": "本世界实存原创物种",
+   "category": "智慧型非人生命（契约固定）【原创设定】",
+   "danger_level": "极高（契约固定；机制推导见第六、十九节，不改写）",
+   "size": "中型鹿形：肩高约 1.4 m／体长约 2.2 m／体重约 180 kg【原创设定】；仅作动能、受毒剂量、部位厚度入口，不作强弱",
+   "habitat": "秘境／小世界（秘境林缘）；必需边界裂隙与界隙场能",
+   "ability_summary": "秘境边界调节者＋旗舰种（契约固定）",
+   "behavior": "小群 4～9 只、按界隙巡守轮值【原创设定】；简单社会组织是行为协作，非指挥多蛊",
+   "carries_gu": true,
+   "carried_gu": [
+    "O-G-110"
+   ],
+   "related_realms": [],
+   "related_regions": [
+    "秘境林缘（全球）"
+   ],
+   "status": "existing",
+   "completeness": "complete_structured",
+   "content_file": "Beasts/O-B/O-B-012.md",
+   "source_files": [
+    "01_最终版/妖兽图鉴/原创妖兽图鉴.md",
+    "01_最终版/现代蛊道世界_v1.0/22_妖兽地理分布索引.md"
+   ],
+   "credibility": "【原创设定】",
+   "flags": [
+    "original_setting",
+    "twenty_sections",
+    "no_control_rules"
+   ],
+   "relations": [
+    {
+     "type": "beast_carries_gu",
+     "target": "O-G-110",
+     "relation": "parasitism",
+     "note": "体表寄生（被动）；妖兽不可催动",
+     "source_section": "八、携带蛊虫档案"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-003",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-007",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-008",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-009",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-010",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_ecological_link",
+     "target": "O-B-011",
+     "note": "生态关系跨组引用",
+     "source_section": "十五、生态关系"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-002",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-221",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "C-K-243",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    },
+    {
+     "type": "beast_vs_killer_move",
+     "target": "O-K-003",
+     "note": "代表性实战组合／评估",
+     "source_section": "十三、代表性实战组合"
+    }
+   ]
+  }
+ },
+ "dist": {
+  "O-B-001": {
+   "name": "檐鸮",
+   "threat": "低",
+   "region": "苍垠、曜川、赫兰城市",
+   "eco": "城市边缘／檐下",
+   "realm": "012 临江地下层（偶入）",
+   "carries": "否",
+   "resource": "低（羽、蛋）"
+  },
+  "O-B-002": {
+   "name": "隧锈鼠",
+   "threat": "低",
+   "region": "全球地下",
+   "eco": "管廊／地铁／矿道",
+   "realm": "001 枢南、012 临江",
+   "carries": "是（低转土/金）",
+   "resource": "低（矿屑）"
+  },
+  "O-B-003": {
+   "name": "层藓兽",
+   "threat": "高",
+   "region": "苍垠、霜栎森林",
+   "eco": "针叶／混交林",
+   "realm": "011 第三谷外围",
+   "carries": "否",
+   "resource": "中（藓材）"
+  },
+  "O-B-004": {
+   "name": "砾背驮兽",
+   "threat": "中",
+   "region": "苍垠天枢、赤砂高原",
+   "eco": "山脉／矿脉",
+   "realm": "001 枢南",
+   "carries": "否",
+   "resource": "中（驮运、皮）"
+  },
+  "O-B-005": {
+   "name": "草潮羚",
+   "threat": "低",
+   "region": "苍垠草原、岐原",
+   "eco": "草原",
+   "realm": "—",
+   "carries": "否",
+   "resource": "中（肉、皮）"
+  },
+  "O-B-006": {
+   "name": "沉沙螯",
+   "threat": "中高",
+   "region": "赤砂沙漠",
+   "eco": "荒漠",
+   "realm": "010 绿洲外围",
+   "carries": "否",
+   "resource": "低"
+  },
+  "O-B-007": {
+   "name": "洄鳞鲮",
+   "threat": "低中",
+   "region": "曜川、澜河、白堰",
+   "eco": "河湖",
+   "realm": "005 岱泽",
+   "carries": "否（待正文）",
+   "resource": "中（食用）"
+  },
+  "O-B-008": {
+   "name": "泥囊螈",
+   "threat": "中",
+   "region": "赤砂绿洲、澜屿红树林",
+   "eco": "沼泽",
+   "realm": "010 绿洲之眼",
+   "carries": "**是（大量被动寄生）**",
+   "resource": "低"
+  },
+  "O-B-009": {
+   "name": "潮脊鲸",
+   "threat": "高",
+   "region": "澜海、环垠洋",
+   "eco": "海洋",
+   "realm": "009 长环外礁",
+   "carries": "否（待正文）",
+   "resource": "高（鲸脂、骨）"
+  },
+  "O-B-010": {
+   "name": "悬丝鹞",
+   "threat": "低",
+   "region": "苍垠、霜栎高空",
+   "eco": "高空",
+   "realm": "—",
+   "carries": "否（待正文）",
+   "resource": "低"
+  },
+  "O-B-011": {
+   "name": "晶隙蛰",
+   "threat": "中",
+   "region": "赫兰裂谷、玄溟洞窟",
+   "eco": "洞窟能量区",
+   "realm": "002 裂谷之下",
+   "carries": "否（待正文）",
+   "resource": "中（晶砂）"
+  },
+  "O-B-012": {
+   "name": "**阈鹿**",
+   "threat": "极高",
+   "region": "秘境林缘（全球）",
+   "eco": "秘境／林缘",
+   "realm": "多座 S3+",
+   "carries": "是（仙蛊登记，见原档）",
+   "resource": "极高"
+  }
+ }
+}

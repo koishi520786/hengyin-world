@@ -1,0 +1,11 @@
+# 内部工作数据，不发布
+.workbuddy/
+
+# Python / 通用缓存
+__pycache__/
+*.py[cod]
+*.log
+
+# 系统文件
+Thumbs.db
+.DS_Store
