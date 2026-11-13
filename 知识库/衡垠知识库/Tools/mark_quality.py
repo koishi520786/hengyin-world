@@ -2,7 +2,7 @@
 """补充非实体注记与疑似同物异号的标记；只改迁入库自己的档案，不动原始资料。"""
 import io, os, json, collections, re
 
-OUT = r"D:\study\跑团\衡垠知识库迁入"
+OUT = r"D:\study\跑团\知识库\衡垠知识库"
 GU = json.loads(io.open(os.path.join(OUT, r"Indexes\_gu_part.json"), encoding="utf-8").read())
 entries = GU["gu"]
 

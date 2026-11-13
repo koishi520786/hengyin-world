@@ -48,5 +48,5 @@ print("rows", len(rows), "matched", len(matched), "unmatched", len(unmatched))
 for x in unmatched:
     print(x[0], x[1])
 json.dump({"rows": rows, "matched": matched, "unmatched": unmatched},
-          io.open(r"D:\study\跑团\衡垠知识库迁入\Audit\EXT_MATCH.json", "w", encoding="utf-8"),
+          io.open(r"D:\study\跑团\知识库\衡垠知识库\Audit\EXT_MATCH.json", "w", encoding="utf-8"),
           ensure_ascii=False, indent=1)

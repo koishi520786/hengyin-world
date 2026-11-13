@@ -1,6 +1,6 @@
 # Tools · 复跑顺序
 
-所有脚本只读 `D:\study\跑团` 原始资料，写入 `D:\study\跑团\衡垠知识库迁入`。
+所有脚本只读 `D:\study\跑团` 原始资料，写入 `D:\study\跑团\衡垠知识库`。
 
 ```text
 1. scan_sources.py          扫描 79 个文本文件 -> Audit/SOURCE_SCAN.json

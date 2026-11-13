@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-衡垠知识库迁入 · 核心构建
+衡垠知识库 · 核心构建
 - 逐条生成蛊虫/妖兽独立 Markdown 档案
 - 生成 JSON 索引与关系索引
 - 原始资料只读，不覆盖、不删除
@@ -8,7 +8,7 @@
 import os, re, io, json, collections
 
 ROOT = r"D:\study\跑团"
-OUT = os.path.join(ROOT, "衡垠知识库迁入")
+OUT = os.path.join(ROOT, "知识库", "衡垠知识库")
 BASE = os.path.join(ROOT, "01_最终版")
 
 def read(p):

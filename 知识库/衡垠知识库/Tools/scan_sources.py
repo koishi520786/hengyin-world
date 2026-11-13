@@ -3,8 +3,8 @@
 import os, re, json, io
 
 ROOT = r"D:\study\跑团"
-OUT = r"D:\study\跑团\衡垠知识库迁入\Audit\SOURCE_SCAN.json"
-SKIP_DIRS = {".git", "node_modules", "衡垠知识库迁入", ".workbuddy"}
+OUT = r"D:\study\跑团\知识库\衡垠知识库\Audit\SOURCE_SCAN.json"
+SKIP_DIRS = {".git", "node_modules", "衡垠知识库", ".workbuddy"}
 EXTS = (".md", ".txt", ".json", ".csv")
 ID_RE = re.compile(r"\b(C-G|O-G|C-B|R-B|O-B|C-K|O-K)-(\d{3})\b")
 HEAD_RE = re.compile(r"^(?:#{1,4}\s*)?(C-G|O-G|C-B|R-B|O-B|C-K|O-K)-(\d{3})\b", re.M)

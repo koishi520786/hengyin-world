@@ -3,7 +3,7 @@
 import os, re, io, json, hashlib, datetime, collections
 
 ROOT = r"D:\study\跑团"
-OUT = os.path.join(ROOT, "衡垠知识库迁入")
+OUT = os.path.join(ROOT, "知识库", "衡垠知识库")
 BASE = os.path.join(ROOT, "01_最终版")
 DATE = "2026-11-13"
 
@@ -493,7 +493,7 @@ all_count = len(gu_entries) + len(beast_entries) + len(move_entries)
 write("Audit/IMPORT_REPORT.md", "\n".join([
  "# 《衡垠世界》全量知识迁入报告",
  "",
- "> 日期：%s｜迁入库：`D:\\study\\跑团\\衡垠知识库迁入`｜原始资料只读，未覆盖、未删除。" % DATE,
+ "> 日期：%s｜迁入库：`D:\\study\\跑团\\衡垠知识库`｜原始资料只读，未覆盖、未删除。" % DATE,
  "",
  "## 一、结论数字",
  tbl(["项目", "数量", "说明"], [
@@ -539,13 +539,13 @@ write("Audit/IMPORT_REPORT.md", "\n".join([
 
 # README
 write("README.md", "\n".join([
- "# 衡垠知识库迁入",
+ "# 衡垠知识库",
  "",
  "本目录是《衡垠世界》既有蛊虫、妖兽、杀招资料的统一迁入库。**只读原始资料，不修改网站文件，不覆盖、不删除任何原文。**",
  "",
  "## 结构",
  "```",
- "衡垠知识库迁入/",
+ "衡垠知识库/",
  "├── README.md",
  "├── SOURCE_INVENTORY.md",
  "├── IMPORT_REPORT.md",

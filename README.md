@@ -4,26 +4,47 @@
 
 > **网站已正式移除。** 本项目不再提供独立网站、HTML 页面、前端路由、构建脚本或部署配置。仓库只保留可持续维护的知识库数据。
 
-## 两层数据
+## 目录结构
 
-### 1. `World/` — 世界层
+```text
+hengyin-world/
+├── README.md
+├── AI_START_HERE.md
+├── AI_INTEGRATION_GUIDE.md
+├── 00_工作区总导航.md
+├── 知识库/
+│   ├── README.md
+│   ├── World/              世界层：总索引、地理、地方志、组织、秘境、规则、来源、地图
+│   └── 衡垠知识库/          档案层：蛊虫、妖兽、杀招、索引、关系、审计
+├── 01_最终版/              当前生效的原始资料
+├── 02_归档_历史版本/       只读历史版本
+├── 03_归档_原始底稿与备份/ 只读原始底稿
+├── 04_归档_拼装中间稿/     只读拼装稿
+├── 05_研究草稿/            本地专题研究与候选方案（默认不推送）
+├── 06_参考资料/            与正式设定无关的外部写作参考
+└── .workbuddy/             本地内部工作数据，不进入 Git 仓库
+```
+
+## 两层核心数据
+
+### 1. `知识库/World/` — 世界层
 
 面向地理、城市、地方志、组织、秘境和全实体总索引：
 
 | 内容 | 数量 / 文件 |
 |---|---|
-| 全实体总索引 | 1,483 条，`World/world-index.json` |
-| 蛊虫与杀招 | 1,177 条（717 蛊虫 + 460 杀招），`World/entities/gu.json` |
-| 妖兽 | 89 条，`World/entities/beasts.json` |
-| 地理与行政区 | 151 条，`World/entities/geography.json` |
-| 组织 | 2 条，`World/entities/organizations.json` |
-| 秘境 | 64 条，`World/entities/realms.json` |
-| 世界关系 | 220 条，`World/relationships.json` |
-| 地方志 | 6 份，`World/gazetteers/` |
-| 规则、来源、报告 | `World/rules/`、`World/sources/`、`World/reports/` |
-| 地图 | 2 份 SVG，`World/maps/` |
+| 全实体总索引 | 1,483 条，`知识库/World/world-index.json` |
+| 蛊虫与杀招 | 1,177 条（717 蛊虫 + 460 杀招），`知识库/World/entities/gu.json` |
+| 妖兽 | 89 条，`知识库/World/entities/beasts.json` |
+| 地理与行政区 | 151 条，`知识库/World/entities/geography.json` |
+| 组织 | 2 条，`知识库/World/entities/organizations.json` |
+| 秘境 | 64 条，`知识库/World/entities/realms.json` |
+| 世界关系 | 220 条，`知识库/World/relationships.json` |
+| 地方志 | 6 份，`知识库/World/gazetteers/` |
+| 规则、来源、报告 | `知识库/World/rules/`、`知识库/World/sources/`、`知识库/World/reports/` |
+| 地图 | 2 份 SVG，`知识库/World/maps/` |
 
-### 2. `衡垠知识库迁入/` — 档案层
+### 2. `知识库/衡垠知识库/` — 档案层
 
 面向逐实体 Markdown 档案与正式编号索引：
 
@@ -37,32 +58,17 @@
 
 C-G 的 684 条记录中含 3 条非实体注记（C-G-274、C-G-462、C-G-643），有效候选 681 条；另有 4 组疑似同物异号，保留原编号、未合并。R-B 是跨作品参考物种，不代表衡垠世界实存妖兽。
 
-## 目录
-
-```text
-hengyin-world/
-├── README.md
-├── AI_START_HERE.md
-├── AI_INTEGRATION_GUIDE.md
-├── 00_工作区总导航.md
-├── World/                 世界层：总索引、地理、地方志、组织、秘境、规则、来源、地图
-├── 衡垠知识库迁入/        档案层：蛊虫、妖兽、杀招、索引、关系、审计
-├── 01_最终版/             当前生效的原始资料
-├── 02_归档_历史版本/      只读历史版本
-├── 03_归档_原始底稿与备份/ 只读原始底稿
-├── 04_归档_拼装中间稿/    只读拼装稿
-└── .workbuddy/            本地内部工作数据，不进入 Git 仓库
-```
+`05_研究草稿/` 与 `知识库/衡垠知识库/Gu/O-G/O-G-022..033`、`Related/Killer_Moves/O-K-014..020` 是未合并草稿或候选，默认不推送、不写入正式索引，不计入 717/460。
 
 ## 快速开始
 
-- 先读 `AI_START_HERE.md`，再按其中的读取顺序进入 `World/` 或 `衡垠知识库迁入/`。
-- 查蛊虫：`衡垠知识库迁入/Indexes/gu-index.json`。
-- 查妖兽：`衡垠知识库迁入/Indexes/beast-index.json`。
-- 查杀招：`衡垠知识库迁入/Indexes/move-index.json`。
-- 查实体关系：`衡垠知识库迁入/Indexes/relationship-index.json`。
-- 查世界、城市、秘境：`World/world-index.json`、`World/entities/`、`World/gazetteers/`。
-- 查来源与审计：`衡垠知识库迁入/Audit/`、`World/sources/`、`World/reports/`。
+- 先读 `AI_START_HERE.md`，再进入 `知识库/World/` 或 `知识库/衡垠知识库/`。
+- 查蛊虫：`知识库/衡垠知识库/Indexes/gu-index.json`。
+- 查妖兽：`知识库/衡垠知识库/Indexes/beast-index.json`。
+- 查杀招：`知识库/衡垠知识库/Indexes/move-index.json`。
+- 查实体关系：`知识库/衡垠知识库/Indexes/relationship-index.json`。
+- 查世界、城市、秘境：`知识库/World/world-index.json`、`知识库/World/entities/`、`知识库/World/gazetteers/`。
+- 查来源与审计：`知识库/衡垠知识库/Audit/`、`知识库/World/sources/`、`知识库/World/reports/`。
 
 ## 下载与克隆
 
@@ -82,6 +88,7 @@ git clone https://github.com/koishi520786/hengyin-world.git
 5. **携带 ≠ 控制**：妖兽携带蛊虫不等于能控制、催动或组成杀招；O-B 妖兽不具备空窍、真元、蛊师修炼或主动炼蛊能力。
 6. **编号是主键**：引用实体一律使用 `id`，不要用名称替代主键。
 7. **未知保留未知**：没有可靠资料的能力、消耗、炼化条件不补写，不把待考证写成确定。
+8. **候选不算正式**：`知识库/衡垠知识库/Gu/O-G/`、`Related/Killer_Moves/` 中未写入索引的新候选档案，不得当作已生效实体；以索引登记为准。
 
 ## 版权与边界
 

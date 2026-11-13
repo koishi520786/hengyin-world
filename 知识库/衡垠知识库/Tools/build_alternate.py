@@ -3,7 +3,7 @@
 import os, re, io, json, collections
 
 ROOT = r"D:\study\跑团"
-OUT = os.path.join(ROOT, "衡垠知识库迁入")
+OUT = os.path.join(ROOT, "知识库", "衡垠知识库")
 BASE = os.path.join(ROOT, "01_最终版")
 
 def read(p): return io.open(p, encoding="utf-8").read()

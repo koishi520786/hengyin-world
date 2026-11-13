@@ -27,13 +27,14 @@ git clone https://github.com/koishi520786/hengyin-world.git
 ```text
 README.md
 → AI_START_HERE.md
-→ World/DATA_SCHEMA.md
-→ World/world-index.json
-→ World/entities/*.json
-→ World/relationships.json
-→ World/gazetteers/*.md
-→ 衡垠知识库迁入/README.md
-→ 衡垠知识库迁入/Indexes/gu-index.json / beast-index.json / move-index.json / relationship-index.json
+→ 知识库/README.md
+→ 知识库/World/DATA_SCHEMA.md
+→ 知识库/World/world-index.json
+→ 知识库/World/entities/*.json
+→ 知识库/World/relationships.json
+→ 知识库/World/gazetteers/*.md
+→ 知识库/衡垠知识库/README.md
+→ 知识库/衡垠知识库/Indexes/gu-index.json / beast-index.json / move-index.json / relationship-index.json
 → 对应 content_file 的 Markdown
 → Audit/ 与 World/reports/
 ```
@@ -44,28 +45,30 @@ README.md
 
 | 路径 | 用途 |
 |---|---|
-| `World/world-index.json` | 世界层总索引，1,483 条实体 |
-| `World/entities/geography.json` | 地理、行政区、城市、地点 |
-| `World/entities/organizations.json` | 组织 |
-| `World/entities/realms.json` | 秘境 |
-| `World/entities/gu.json` | 717 条蛊虫 + 460 条杀招的结构化索引 |
-| `World/entities/beasts.json` | 89 条妖兽索引 |
-| `World/entities/beasts_relations.json` | 妖兽生态关系的详细机制 |
-| `World/relationships.json` | 世界层 220 条关系边 |
-| `World/gazetteers/*.md` | 世界、城市、城区、街道、社区、秘境的地方志正文 |
-| `World/rules/*.md` | 编号、状态、蛊道、秘境、妖兽携蛊、跑团规则 |
-| `World/sources/*.md` | 来源、版本、统计口径、未编号实体 |
-| `World/reports/*.md` | 冲突、缺失、待确认报告 |
-| `衡垠知识库迁入/Indexes/*.json` | 蛊虫、妖兽、杀招、关系、来源、扩展、秘境索引 |
-| `衡垠知识库迁入/Gu/`、`Beasts/`、`Related/` | 逐实体 Markdown 档案 |
-| `衡垠知识库迁入/Audit/` | 导入、覆盖、重复、冲突、不完整、核验报告 |
+| `知识库/World/world-index.json` | 世界层总索引，1,483 条实体 |
+| `知识库/World/entities/geography.json` | 地理、行政区、城市、地点 |
+| `知识库/World/entities/organizations.json` | 组织 |
+| `知识库/World/entities/realms.json` | 秘境 |
+| `知识库/World/entities/gu.json` | 717 条蛊虫 + 460 条杀招的结构化索引 |
+| `知识库/World/entities/beasts.json` | 89 条妖兽索引 |
+| `知识库/World/entities/beasts_relations.json` | 妖兽生态关系的详细机制 |
+| `知识库/World/relationships.json` | 世界层 220 条关系边 |
+| `知识库/World/gazetteers/*.md` | 世界、城市、城区、街道、社区、秘境的地方志正文 |
+| `知识库/World/rules/*.md` | 编号、状态、蛊道、秘境、妖兽携蛊、跑团规则 |
+| `知识库/World/sources/*.md` | 来源、版本、统计口径、未编号实体 |
+| `知识库/World/reports/*.md` | 冲突、缺失、待确认报告 |
+| `知识库/衡垠知识库/Indexes/*.json` | 蛊虫、妖兽、杀招、关系、来源、扩展、秘境索引 |
+| `知识库/衡垠知识库/Gu/`、`Beasts/`、`Related/` | 逐实体 Markdown 档案 |
+| `知识库/衡垠知识库/Audit/` | 导入、覆盖、重复、冲突、不完整、核验报告 |
+| `05_研究草稿/` | 未合并的专题研究与候选方案 |
+| `06_参考资料/` | 与正式设定无关的外部写作参考 |
 
 ## 4. 给 AI 的字段约定
 
 - `id`：唯一主键；跨文件引用一律用编号。
 - `status`：`existing` / `proposed` / `uncertain` / `revised`。
 - `coverage`：`full` / `summary` / `index` / `missing`。
-- `content_file`：详细正文路径；`World/` 中的相对路径以 `World/` 为基准，`衡垠知识库迁入/` 中的路径以该目录为基准。
+- `content_file`：详细正文路径；`知识库/World/` 中的相对路径以该目录为基准，`知识库/衡垠知识库/` 中的路径以该目录为基准。
 - `record_file`：结构化记录文件路径。
 - 关系边的 `from` / `to` 必须指向已存在的实体 ID；关系类型必须按实际语义使用。
 - 网站专属字段 `route` / `entity_route` 已移除；不要再依赖页面路由。
@@ -73,9 +76,9 @@ README.md
 ## 5. 更新流程
 
 1. 只修改原始资料或对应实体档案，不直接批量改写索引。
-2. 需要重建档案索引时，运行 `衡垠知识库迁入/Tools/` 下的脚本；先读 `Tools/README.md`。
+2. 需要重建档案索引时，运行 `知识库/衡垠知识库/Tools/` 下的脚本；先读 `Tools/README.md`。
 3. 世界层 JSON 改动后，跑一遍引用完整性检查：`content_file` / `record_file` 是否存在，`relationships` 的端点是否存在。
-4. 把变更写入 `World/sources/01_版本与状态.md` 或对应审计报告。
+4. 把变更写入 `知识库/World/sources/01_版本与状态.md` 或对应审计报告。
 5. 提交到 Git；不要在公开仓库中放入 `.workbuddy/`、本地缓存或密钥。
 
 ## 6. 边界
@@ -84,3 +87,4 @@ README.md
 - R-B 只是参考物种，不是衡垠世界实存生物。
 - O-B 妖兽不能修炼蛊道、不能主动催蛊；携带蛊虫不等于控制。
 - 未确认的能力、消耗、炼化条件保留“未知/待考证”，不得用推测补全。
+- 未登记进索引的新候选档案一律视为草稿，不视为正式实体。

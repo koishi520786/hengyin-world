@@ -23,7 +23,7 @@ World/
 └── DATA_SCHEMA.md            本文件
 ```
 
-`world-index.json` 是总索引；`entities/*.json` 是分类记录；两者通过 `record_file` 关联。详细实体 Markdown 仍以 `衡垠知识库迁入/` 为准。
+`world-index.json` 是总索引；`entities/*.json` 是分类记录；两者通过 `record_file` 关联。详细实体 Markdown 仍以 `衡垠知识库/` 为准。
 
 ## 2. 实体字段
 
@@ -95,6 +95,6 @@ World/
 ## 6. 路径规则
 
 - `content_file` / `record_file` 相对于 `World/`。
-- O-B 的 `content_file` 指向 `../衡垠知识库迁入/Beasts/O-B/O-B-*.md`。
+- O-B 的 `content_file` 指向 `../衡垠知识库/Beasts/O-B/O-B-*.md`。
 - 地方志正文在 `gazetteers/`。
 - 不再有 `localhost`、`#/` 路由或网站页面路径。

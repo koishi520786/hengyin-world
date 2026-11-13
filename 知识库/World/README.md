@@ -34,7 +34,7 @@
 
 ## 关系与路径
 
-- `content_file` 与 `record_file` 均为相对于本目录的路径；O-B 正文指向 `../衡垠知识库迁入/Beasts/O-B/`。
+- `content_file` 与 `record_file` 均为相对于本目录的路径；O-B 正文指向 `../衡垠知识库/Beasts/O-B/`。
 - `world-index.json` 的 `record_file` 指向本目录下的 `entities/*.json`。
 - 关系边的 `from` / `to` 必须存在于 `world-index.json`。
 - 网站页面路由字段 `route` / `entity_route` 已删除；不要再用旧 `#/...` 地址。

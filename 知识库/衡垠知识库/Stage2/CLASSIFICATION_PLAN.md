@@ -17,7 +17,7 @@
 - O-B 保留二十节结构；携带蛊虫单独显示“携带/寄生/共生/被动触发”，不表述为主动催动。
 
 ## 三、关系数据
-- 关系只从 `Indexes/relationship-index.json` 与 `World/relationships.json` 读取；索引、目录和实体档案共用同一 ID。
+- 关系只从 `Indexes/relationship-index.json` 与 `../World/relationships.json` 读取；索引、目录和实体档案共用同一 ID。
 - 当前关系类型：蛊虫关联蛊虫、妖兽携带蛊虫、妖兽引用原著兽类、妖兽栖息秘境、杀招使用蛊虫、妖兽实战组合引用杀招等。
 - 未解析目标已列在 `relationship-index.json.unresolved_relations`，不画进关系图。
 

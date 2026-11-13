@@ -2,7 +2,7 @@
 """交付前逐条核验：文件存在、编号连续/唯一、关系目标存在、计数一致。"""
 import os, re, io, json, collections
 
-OUT = r"D:\study\跑团\衡垠知识库迁入"
+OUT = r"D:\study\跑团\知识库\衡垠知识库"
 def read(p): return io.open(p, encoding="utf-8").read()
 
 gu = json.loads(read(os.path.join(OUT, r"Indexes\gu-index.json")))

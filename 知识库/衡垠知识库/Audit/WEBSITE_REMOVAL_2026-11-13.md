@@ -7,6 +7,8 @@
 - 提交信息：`chore: remove website and keep knowledge base`
 - 原则：删除网站，保留世界；不修改正式设定内容，不覆盖其他 Agent 的提交，不使用强制推送。
 
+> 路径说明：本报告记录网站移除时的目录状态。同日后续整理已将 `World/` 与 `衡垠知识库/` 迁入 `知识库/`；当前实际路径以根 `README.md` 与 `00_工作区总导航.md` 为准。
+
 ## 一、结果
 
 独立网站已从工作区移除。网站中仍有资料价值的世界数据先迁入 `World/`，再删除原网站目录；旧网站文件可从 Git 历史恢复，但不再属于当前知识库结构。
@@ -21,8 +23,8 @@
 - 网站专属说明：`使用说明.md`、`本次修改记录.md`、`数据结构说明.md`，以及 `data/README.md`、`data/AI_START_HERE.md`、`data/AI_INTEGRATION_GUIDE.md`。
 - 网站专属数据：`data/manifest.json`、`data/entities/beasts_render.json`、`data/reports/链接与路由校验报告.md`。
 - 网站首页与建设状态：`data/gazetteers/00_首页.md`、`data/gazetteers/BUILD_建设状态.md`、`data/gazetteers/GU_蛊道索引.md`。
-- 网站内重复的 O-B 档案副本：`data/entities/beasts/O-B-001.md` 至 `O-B-012.md`（正文已保留在 `衡垠知识库迁入/Beasts/O-B/`）。
-- 网站 IA 交接文档：`衡垠知识库迁入/Stage2/WEB_IA_HANDOFF.md`。
+- 网站内重复的 O-B 档案副本：`data/entities/beasts/O-B-001.md` 至 `O-B-012.md`（正文已保留在 `衡垠知识库/Beasts/O-B/`）。
+- 网站 IA 交接文档：`衡垠知识库/Stage2/WEB_IA_HANDOFF.md`。
 - 空目录 `衡垠世界_世界地图集/`。
 
 Git 初始提交中 `hengyin-world-atlas/` 共 67 个跟踪文件；其中 31 个世界数据文件已先复制到 `World/` 并保留，原网站路径随目录删除。删除的预览图是网站 UI 截图，不是原始地图。
@@ -48,7 +50,7 @@ Git 初始提交中 `hengyin-world-atlas/` 共 67 个跟踪文件；其中 31 �
   - `云栖生活圈_示意.svg`
 - `README.md`、`DATA_SCHEMA.md`：世界层说明与字段规范。
 
-### 档案层 `衡垠知识库迁入/`
+### 档案层 `衡垠知识库/`
 
 - 蛊虫 717 份：C-G 684、O-G 33。
 - 妖兽 89 份：C-B 37、R-B 40、O-B 12。
@@ -70,8 +72,8 @@ Git 初始提交中 `hengyin-world-atlas/` 共 67 个跟踪文件；其中 31 �
 - 根 `AI_START_HERE.md`：新增 AI 读取顺序、状态口径和禁区。
 - 根 `AI_INTEGRATION_GUIDE.md`：新增静态知识库接入、更新流程和边界。
 - `World/README.md`、`World/DATA_SCHEMA.md`：改为世界层静态数据说明，删除网站路由字段说明。
-- `00_工作区总导航.md`：加入 `World/` 与 `衡垠知识库迁入/`，记录网站已移除。
-- `衡垠知识库迁入/README.md`：删除网页 IA 引用，修正 `Audit/IMPORT_REPORT.md` 路径。
+- `00_工作区总导航.md`：加入 `World/` 与 `衡垠知识库/`，记录网站已移除。
+- `衡垠知识库/README.md`：删除网页 IA 引用，修正 `Audit/IMPORT_REPORT.md` 路径。
 - `Stage2/CLASSIFICATION_PLAN.md`：网站数据包改为 AI 数据包，保留分类建议。
 - `Tools/build_indexes.py`、`Tools/scan_sources.py`：移除旧网站路径引用。
 

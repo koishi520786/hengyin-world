@@ -68,5 +68,5 @@ print(orig_un[:100])
 
 json.dump({"cg_count": len(cg), "ext_count": len(ext), "ext_unmatched": ext_un,
            "orig_h3": len(h3), "orig_unmatched": orig_un},
-          io.open(r"D:\study\跑团\衡垠知识库迁入\Audit\NAME_OVERLAP.json", "w", encoding="utf-8"),
+          io.open(r"D:\study\跑团\知识库\衡垠知识库\Audit\NAME_OVERLAP.json", "w", encoding="utf-8"),
           ensure_ascii=False, indent=1)
