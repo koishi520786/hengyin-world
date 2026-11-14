@@ -201,7 +201,7 @@
 
 - 基线 HEAD：`3485d5561ca47f1b1bbe36be60fd6b5090d172e0`
 - 本轮重构提交：`79aa2d3`
-- 推送状态：`待推送；本地 main 领先远端，推送凭据仍待配置`
+- 推送状态：**失败（退出 128）**：`fatal: could not read Username for 'https://github.com': No such file or directory`。本地提交保留，未强推；配置 GitHub 用户名/credential helper 后可重试 `git push origin main`。
 - 未修改：`跑团提示词/`、`ll.txt`、本地私有提示词、`废品/` 中的工作底稿。
 - 旧文件删除已包含在重构提交；Git 历史保留。
 
