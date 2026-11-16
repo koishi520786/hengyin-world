@@ -1,0 +1,41 @@
+name: tmp-sync-hengyin
+
+on:
+  push:
+    paths:
+      - .github/workflows/tmp-sync-hengyin.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      PKG_URL: https://aka.doubaocdn.com/s/patcpPkSZH
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Extract package
+        run: |
+          set -euo pipefail
+          curl -L --fail --retry 5 --retry-delay 2 -o /tmp/pkg.tar.gz "$PKG_URL"
+          ls -l /tmp/pkg.tar.gz
+          tar -xzf /tmp/pkg.tar.gz -C "$GITHUB_WORKSPACE"
+          rm -f /tmp/pkg.tar.gz
+          git status --short | head -60
+
+      - name: Commit and push
+        run: |
+          set -euo pipefail
+          git rm .github/workflows/tmp-sync-hengyin.yml
+          git add -A
+          git config user.name "Hengyin World"
+          git config user.email "215965098+koishi520786@users.noreply.github.com"
+          git commit -m "正式修订：开窍大典当天开局、资质四等分布、现实课业奖励机制"
+          git push origin HEAD:main
