@@ -81,5 +81,5 @@
 
 ## 三、数据资产
 
-- `04_世界/地图数据/`：11 张 SVG、`world_countries.geojson`、`geography_stats.json`；内容未改，仅随世界卷迁移。
+- `04_世界/地图数据/`：11 张 SVG、`world_countries.geojson`、`geography_stats.json`；全球秘境图标注 REALM-001—012 与 REALM-065—072 共 20 座有名秘境，完整 72 座名录见 `04_世界/09_秘境与特殊空间.md`。
 - `跑团提示词/` 是公开正式启动文件；旧 `ll.txt` 仅作本地历史备份，不进入公开目录。
