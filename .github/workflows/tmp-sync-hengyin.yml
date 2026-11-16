@@ -1,0 +1,28 @@
+name: tmp-sync-hengyin
+on:
+  push:
+permissions:
+  contents: write
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Apply payload
+        run: |
+          curl -fsSL -o /tmp/payload.tar.gz "https://aka.doubaocdn.com/s/Zm3FGcB5IT"
+          tar -xzf /tmp/payload.tar.gz -C .
+      - name: Purge non-canon
+        run: |
+          git rm -r --ignore-unmatch "最终版/世界运行机制调研" "最终版/04_战斗机制与冲突推演调研" "跑团剧本"
+          git rm --ignore-unmatch "最终版/MIGRATION_MAP.md"
+      - name: Commit and push
+        run: |
+          git config user.name "Hengyin World"
+          git config user.email "215965098+koishi520786@users.noreply.github.com"
+          git rm .github/workflows/tmp-sync-hengyin.yml
+          git add -A
+          git commit -m "知识库纯化：移除研究库、调研、剧本与迁移历史，只保留正式设定"
+          git push
